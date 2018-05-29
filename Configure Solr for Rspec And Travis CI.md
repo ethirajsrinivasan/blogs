@@ -46,9 +46,8 @@ end
 
 The complexity comes when you have to configure solr for travis.By default solr is not installed in travis boxes.So solr has to be downloaded and installed.This [link](https://github.com/moliware/travis-solr) will be of great help to install solr in your travis boxes.One thing to notice here is your configuration. Test is the default collection name created by Sunspot solr so the same name has to be used in your travis boxes,Otherwise your tests may file in CI environment.You are also required to specify the path of solrconfig.xml folder which should include schema.xml file as well.
 
-```ruby 
-curl -sSL https://raw.githubusercontent.com/moliware/travis-solr/master/travis-solr.sh | 
-SOLR_VERSION=5.3.1 SOLR_COLLECTION=test SOLR_COLLECTION_CONF=path/to/spec/support/solr bash
+```shell 
+curl -sSL https://raw.githubusercontent.com/moliware/travis-solr/master/travis-solr.sh | SOLR_VERSION=5.3.1 SOLR_COLLECTION=test SOLR_COLLECTION_CONF=path/to/spec/support/solr bash
 ```
 
 Once you have configured the above steps will be able to run your specs successfully in both your local environment and Travis CI.Happy Coding !!!
