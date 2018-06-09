@@ -1,4 +1,4 @@
-## Use of Includes
+## How to use Includes in rails
 
 Includes is a handy method to do eager loading on your associations as stated in the rails documentation - "With includes, Active Record ensures that all of the specified associations are loaded using the minimum possible number of queries."
 
