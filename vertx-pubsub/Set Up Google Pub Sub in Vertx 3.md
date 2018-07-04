@@ -81,7 +81,7 @@ public class MessageHandler implements Handler<RoutingContext> {
 
 Add the following maven dependency to the pom.xml file
 
-```maven
+```java
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
