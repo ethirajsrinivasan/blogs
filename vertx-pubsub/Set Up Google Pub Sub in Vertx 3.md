@@ -11,7 +11,7 @@ Download vertx starter template from [this](http://start.vertx.io/) link as show
 ## Main Verticle
 
 In the main verticle get an instance of router and create a new endpoint to be handled by a vertx handler eg MessageHandler.
-To leverage the benefits of the vertx application code written has to be non blocking. Blocking or Time Consuming code can be executed with the help of worker verticle.So we will deploy the Google Pub Sub Message Processor as a worker verticle. Create new `DeploymentOptions` and set the worker as true. Configuration options can also be provided to the deploymentOptions. Configuration will be in the form of a json which can provided by local Json Object or the Json Object obtained from the application configuration. Configuration for Google Pub Sub may contain the topic that you are subscribing to , the path of the Google Pub Sub Credentials etc. Google credentails can be obtained by following the steps given [here](https://cloud.google.com/docs/authentication/getting-started). Place the google credentails file within the config folder in the src directory. Create a simple HTTPServer with router accepting the request.
+To leverage the benefits of the vertx application, code written has to be non blocking. Blocking or Time Consuming code can be executed with the help of worker verticle. So we will deploy the Google Pub Sub Message Processor as a worker verticle. Create new `DeploymentOptions` and set the worker as true. Configuration options can also be provided to the deploymentOptions. Configuration will be in the form of a json which can provided by local Json Object or the Json Object obtained from the application configuration. Configuration for Google Pub Sub may contain the topic that you are subscribing to, the path of the Google Pub Sub Credentials etc. Google credentails can be obtained by following the steps given [here](https://cloud.google.com/docs/authentication/getting-started). Place the google credentails file within the config folder in the src directory. Create a simple HTTPServer with router accepting the request.
 
 
 ```java
@@ -53,7 +53,7 @@ public class MainVerticle extends AbstractVerticle {
 
 ## Message Handler
 
-create a simple message handler. Get the message to be sent to google pub sub from the parameter in the request and send it as json object in the eventbus. The `send` method takes the address and message as the arguments. Address can be simple string
+Create a simple message handler. Get the message to be sent to google pub sub from the parameter in the request and send it as json object in the eventbus. The `send` method takes the address and message as the arguments. Address can be simple string
 
 ```java
 public class MessageHandler implements Handler<RoutingContext> {
