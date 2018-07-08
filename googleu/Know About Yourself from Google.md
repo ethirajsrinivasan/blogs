@@ -8,7 +8,7 @@ In the first place why do I see Google ads being published here. The reason is t
 
 ![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/googleu/ad_personalisation.png)
 
-I scrolled down and I could see various websites that i have visited for the past few days and various factors on how my ad is personalised. Each page that I have visited is categorised into a factor in the backend. Some of the few factors are listed below
+I scrolled down and I could see various websites that I have visited for the past few days and various factors on how my ad is personalised. Each page that I have visited is categorised into a factor in the backend. Some of the few factors are listed below
 
 ![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/googleu/google_factors_ad.png)
 
@@ -28,5 +28,5 @@ I further explored on each app and landed at this pop up.
 
 ![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/googleu/activity_pop_up.png)
 
-I was very fictious about UdcList Setting which i googled and ended up with improper information. I also tried to filter my activity in [Manage your activity] page (https://myactivity.google.com/myactivity) and could see list of Google product under which i was tracked. This is a small glimpse of how i am tracked under Google. You can also explore yours and find about yourself. To answer the question why is google giving preference to `Stop seeing this ad` than `why this ad` is because by clicking on `Stop seeing this ad` we can only stop one specific ad from display whereas clicking on `why this ad` we could explore much more about ourself and could turn off ad personalisaton. This personlised ad is so important to google because it earns more money from the advertiser for every click on personlised ad. Is Google the only company showing personalised ad on your browser ? No. Click on this [link](http://optout.aboutads.info/) to explore further. Happy Exploring !!!
+I was very fictious about UdcList Setting which I googled and ended up with improper information. I also tried to filter my activity in [Manage your activity] page (https://myactivity.google.com/myactivity) and could see list of Google product under which I was tracked. This is a small glimpse of how I am tracked under Google. You can also explore yours and find about yourself. To answer the question why is google giving preference to `Stop seeing this ad` than `why this ad` is because by clicking on `Stop seeing this ad` we can only stop one specific ad from display whereas clicking on `why this ad` we could explore much more about ourself and could turn off ad personalisaton. This personlised ad is so important to google because it earns more money from the advertiser for every click on personlised ad. Is Google the only company showing personalised ad on your browser ? No. Click on this [link](http://optout.aboutads.info/) to explore further. Happy Exploring !!!
 
