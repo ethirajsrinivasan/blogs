@@ -22,7 +22,7 @@ I cliked on a factor and further linked on [Manage your activity](https://myacti
 
 These 5 categories can be individually tracked. I clicked on `Android` and I could see that my activities on my mobile phone is tracked. It shows the time I have opened my apps like WhatsApp and youtube
 
-![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/googleu/android_app_activity1.png)
+![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/googleu/android_app_activity1.png){:class="text-center"}
 
 I further explored on each app and landed at this pop up.
 
