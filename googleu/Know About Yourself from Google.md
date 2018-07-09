@@ -22,12 +22,12 @@ I cliked on a factor and further linked on [Manage your activity](https://myacti
 
 These 5 categories can be individually tracked. I clicked on `Android` and I could see that my activities on my mobile phone is tracked. It shows the time I have opened my apps like WhatsApp and youtube
 
-![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/googleu/android_app_activity.png)
+![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/googleu/android_app_activity1.png)
 
 I further explored on each app and landed at this pop up.
 
 
-<img src="https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/googleu/activity_pop_up.png">
+![]("https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/googleu/activity_pop_up.png")
 
 
 I was very fictious about UdcList Setting which I googled and ended up with improper information. I also tried to filter my activity in [Manage your activity] page (https://myactivity.google.com/myactivity) and could see list of Google product under which I was tracked. This is a small glimpse of how I am tracked under Google. You can also explore yours and find about yourself. To answer the question why is google giving preference to `Stop seeing this ad` than `why this ad` is because by clicking on `Stop seeing this ad` we can only stop one specific ad from display whereas clicking on `why this ad` we could explore much more about ourself and could turn off ad personalisaton. This personlised ad is so important to google because it earns more money from the advertiser for every click on personlised ad. Is Google the only company showing personalised ad on your browser ? No. Click on this [link](http://optout.aboutads.info/) to explore further. Happy Exploring !!!
