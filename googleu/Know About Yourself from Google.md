@@ -26,7 +26,7 @@ These 5 categories can be individually tracked. I clicked on `Android` and I cou
 
 I further explored on each app and landed at this pop up.
 
-<p align="center">
+<p class="text-center">
     <img src="https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/googleu/activity_pop_up1.png">
 </p>
 
