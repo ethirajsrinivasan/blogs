@@ -107,7 +107,7 @@ end
 
 The `session` class takes care of all the executions. It first converts the set of operations to postfix order. The operations are then executed one by one. Since we have created all the components required, Lets jump into action. For simplicity I have already solved the problem for the data shown below and used the solved weight and bias values
 
-![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/ruby_tensorflow/classification_plot.png)
+![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/ruby_tensorflow/linear_classifier.png)
 
 ```ruby
 A = Variable.new([1,1])
