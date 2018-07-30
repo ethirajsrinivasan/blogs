@@ -104,4 +104,37 @@ class Session
 end
 ```
 
-The `session` class takes care of all the execution. It first converts the set of operations to postfix order. The operations are then executed one by one. Since we have created all the components required. Lets jump into action. We will first create the placeholders  
+The `session` class takes care of all the execution. It first converts the set of operations to postfix order. The operations are then executed one by one. Since we have created all the components required, Lets jump into action. For simplicity I have already solved the problem for the data shown below and used the solved values
+
+![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/ruby_tensorflow/regression_plot.png)
+
+```ruby
+A = Variable.new([1,1])
+b = Variable.new(-5)
+x = Placeholder.new()
+y = Matmul.new(A,x)
+z = Add.new(y,b)
+a = Sigmoid.new(z)
+sess = Session.new()
+```
+Lets see the example from two extremes
+
+```ruby
+result = sess.run(a,feed_dict={x.object_id=>[0,-10]})
+puts(result)%
+```
+```sh
+3.059022269256247e-07
+```
+The point `(0,-10)` lies towards the lower left corner of the graph hence the sigmoid value tends towards 0
+```ruby
+result = sess.run(a,feed_dict={x.object_id=>[8,10]})
+puts(result)%
+```
+```sh
+0.999997739675702
+```
+For the point `(8,10)` which lies near the upper right corner of the graph the sigmoid value tends towards 1. 
+
+
+Hope this example gives a good understanding of basic components of tensorflow. Happy hunting !!!
