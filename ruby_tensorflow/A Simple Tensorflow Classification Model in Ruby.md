@@ -1,6 +1,6 @@
-## A Simple Tensorflow Regression Model in Ruby
+## A Simple Tensorflow Classification Model in Ruby
 
-The main objective of this blog is to build a simple linear regression model in ruby using Tensorflow architecture. The main tensorflow compenents required to build and test the model  are Operation, Placeholder, Variable and Session. These components are written as ruby classes. Lets start with the Operation class.
+The main objective of this blog is to build a simple linear classification model in ruby using Tensorflow architecture. The main tensorflow compenents required to build and test the model  are Operation, Placeholder, Variable and Session. These components are written as ruby classes. Lets start with the Operation class.
 
 ```ruby
 class Operation
@@ -107,7 +107,7 @@ end
 
 The `session` class takes care of all the executions. It first converts the set of operations to postfix order. The operations are then executed one by one. Since we have created all the components required, Lets jump into action. For simplicity I have already solved the problem for the data shown below and used the solved weight and bias values
 
-![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/ruby_tensorflow/regression_plot.png)
+![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/ruby_tensorflow/classification_plot.png)
 
 ```ruby
 A = Variable.new([1,1])
