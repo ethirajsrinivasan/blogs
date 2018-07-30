@@ -1,6 +1,6 @@
 ## A Simple Tensorflow Regression Model in Ruby
 
-The main objective of this blog is to build a simple linear regression model in ruby using Tensorflow architecture. The main tensorflow compenents required to build and test models  are Operation, Placeholder, Variable and Session. These components are written as ruby classes. Lets start with the Operation class.
+The main objective of this blog is to build a simple linear regression model in ruby using Tensorflow architecture. The main tensorflow compenents required to build and test the model  are Operation, Placeholder, Variable and Session. These components are written as ruby classes. Lets start with the Operation class.
 
 ```ruby
 class Operation
@@ -17,7 +17,7 @@ class Operation
 end
 ```
 
-The `Operation` class forms the basis of all the computation in tensorflow. The `compute` method carries out the computation required. Let us create few classes which inherit the `Operation` class
+The `Operation` class forms the basis of all the computation in tensorflow. The `compute` method carries out the computation required. Let us create few classes which inherit the `Operation` class and we will use sigmoid as the activation function for the model
 
 ```ruby
 require Matrix
@@ -52,7 +52,7 @@ class Sigmoid < Operation
 end
 ```
 
-Load the Matrix class at the begining which is equivalent to python's `numpy` library. Now that we have created basic operation classes we will proceed other components
+Load the Matrix library at the begining which is equivalent to python's `numpy` library. Now that we have created basic operation classes we will proceed to other components.
 
 ```ruby
 class Placeholder
@@ -68,7 +68,8 @@ class Variable
 end
 ```
 
-The `placeholder` class holds objects which are input and output of the model. These object act as constant and their values dont change during the computation. The `Variable` holds values which are changable. These values are either weights or bias given to the model. Now we will define the session class.
+The `placeholder` class holds objects which are input or output of the model. These object act as constant and their values dont change during the session. The `Variable` holds values which are changeble. These values are either weights or bias given to the model. In the actual tensorflow model these values are updated using the optimizer(eg AdamOptimizer, Stocastic Gradient Descent etc). We wont be updating any value in our approach. Now we will define the session class.
+
 ```ruby
 class Session
 
@@ -104,7 +105,7 @@ class Session
 end
 ```
 
-The `session` class takes care of all the execution. It first converts the set of operations to postfix order. The operations are then executed one by one. Since we have created all the components required, Lets jump into action. For simplicity I have already solved the problem for the data shown below and used the solved values
+The `session` class takes care of all the executions. It first converts the set of operations to postfix order. The operations are then executed one by one. Since we have created all the components required, Lets jump into action. For simplicity I have already solved the problem for the data shown below and used the solved weight and bias values
 
 ![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/ruby_tensorflow/regression_plot.png)
 
@@ -117,7 +118,7 @@ z = Add.new(y,b)
 a = Sigmoid.new(z)
 sess = Session.new()
 ```
-Lets see the example from two extremes
+Lets see the example for two extremes of the function
 
 ```ruby
 result = sess.run(a,feed_dict={x.object_id=>[0,-10]})
@@ -136,5 +137,4 @@ puts(result)%
 ```
 For the point `(8,10)` which lies near the upper right corner of the graph the sigmoid value tends towards 1. 
 
-
-Hope this example gives a good understanding of basic components of tensorflow. Happy hunting !!!
+Hope this example gives a good understanding of basic components of tensorflow. Happy learning !!!
