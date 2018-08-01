@@ -110,10 +110,10 @@ The `Session` class takes care of all the executions. It first converts the set 
 ![](https://raw.githubusercontent.com/ethirajsrinivasan/blogs/master/ruby_tensorflow/linear_classifier.png)
 
 ```ruby
-A = Variable.new([1,1])
+W = Variable.new([1,1])
 b = Variable.new(-5)
 x = Placeholder.new()
-y = Matmul.new(A,x)
+y = Matmul.new(W,x)
 z = Add.new(y,b)
 a = Sigmoid.new(z)
 sess = Session.new()
