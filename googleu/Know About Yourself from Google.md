@@ -1,4 +1,4 @@
-# Know About Yourself from Google.md
+# Know About Yourself from Google
 
 It all started with this website - [https://camelcamelcamel.com](https://camelcamelcamel.com/). This website is a free Amazon price tracker. I was looking at the price of a product from Amazon. I was annoyed by one particular ad in this website since it was following me wherever I go on the internet. So I closed that ad and it appeared as below
 
