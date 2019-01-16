@@ -16,3 +16,7 @@
 
 ### RNN vs LSTM
 [Understanding-LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+The LSTM does so via input, forget, and output gates; the input gate regulates how much of the new cell state to keep, the forget gate regulates how much of the existing memory to forget, and the output gate regulates how much of the cell state should be exposed to the next layers of the network
+
+### Attension Mechanism in NMT
+[Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
