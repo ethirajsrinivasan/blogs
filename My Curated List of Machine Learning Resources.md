@@ -20,3 +20,11 @@ The LSTM does so via input, forget, and output gates; the input gate regulates h
 
 ### Attension Mechanism in NMT
 [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
+
+### Time Series
+
+[Time Series In Python](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
+
+[Time Series In R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
+
+[AR, MA , ARMA](https://s3.amazonaws.com/assets.datacamp.com/production/course_1811/slides/ch2.pdf)
