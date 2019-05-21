@@ -28,3 +28,11 @@ The LSTM does so via input, forget, and output gates; the input gate regulates h
 [Time Series In R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
 
 [AR, MA , ARMA](https://s3.amazonaws.com/assets.datacamp.com/production/course_1811/slides/ch2.pdf)
+
+### Boosting
+
+[AdaBoost](https://hackernoon.com/boosting-algorithms-adaboost-gradient-boosting-and-xgboost-f74991cad38c)
+
+[Gradient Boost](https://hackernoon.com/gradient-boosting-and-xgboost-90862daa6c77)
+
+[XGBoost](https://hackernoon.com/gradient-boosting-and-xgboost-90862daa6c77)
