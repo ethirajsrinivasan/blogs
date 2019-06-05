@@ -36,3 +36,6 @@ The LSTM does so via input, forget, and output gates; the input gate regulates h
 [Gradient Boost](https://hackernoon.com/gradient-boosting-and-xgboost-90862daa6c77)
 
 [XGBoost](https://hackernoon.com/gradient-boosting-and-xgboost-90862daa6c77)
+
+### Chi-Square test
+[Chi-Square in Python](https://codingdisciple.com/chi-squared-python.html)
