@@ -39,3 +39,10 @@ The LSTM does so via input, forget, and output gates; the input gate regulates h
 
 ### Chi-Square test
 [Chi-Square in Python](https://codingdisciple.com/chi-squared-python.html)
+
+
+### Statistics 
+[Basics](https://codingdisciple.com/central-tendency.html)
+
+### Covariance vs Correlation
+[Pearson vs Spearman](https://towardsdatascience.com/getting-the-basics-of-correlation-covariance-c8fc110b90b4)
