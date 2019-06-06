@@ -9,6 +9,7 @@
 ### Gradient Descent and its variants
 
 [Introduction to Gradient Descent Algorithm (along with variants) in Machine Learning](https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/)
+
 [optimizing-gradient-descent](http://ruder.io/optimizing-gradient-descent/)
 
 ### Face Recognition
