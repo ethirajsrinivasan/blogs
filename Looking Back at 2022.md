@@ -51,7 +51,7 @@ A new skill that I wanted to try in 2022. Never really picked it up. Definitely 
 One more new skill that I would like to do is practicing yoga/meditation. 2022 was not the year. I see a lack of knowledge on where to start on this. It is time I seek knowledge about it through books or some wise people around me.
 
 ## Photography/PhotoClicking
-I decided to collect a lot of memories to look back in the future. So I started to take a lot of photos of my journey. Created a dedicated Instagram account @duothoughtz for nature and continued creating memories in the form of reels. I did create more memories on my self Instagram account @ethirajchandru. Lots of photos stay back in my hard disk. It is time to convert those photos into more beautiful memories
+I decided to collect a lot of memories to look back in the future. So I started to take a lot of photos of my journey. Created a dedicated Instagram account [@duothoughtz](https://www.instagram.com/duothoughtz/) for nature and continued creating memories in the form of reels. I did create more memories on my self Instagram account [@ethirajchandru](https://www.instagram.com/ethirajchandru/). Lots of photos stay back in my hard disk. It is time to convert those photos into more beautiful memories
 
 
 [![image](https://user-images.githubusercontent.com/7569031/227775174-d5f83cba-23b5-420b-a636-e9c1e2b30710.png)](https://youtube.com/shorts/YaQIIIUGKHs)
