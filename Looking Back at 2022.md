@@ -64,4 +64,4 @@ I decided to collect a lot of memories to look back in the future. So I started 
 
 This completes my review of 2022. It is time to focus on the goals of 2023. I am determined it will be a more productive year. See you in the next post.
 
-Imported from [Medium: Looking Back at 2022](https://medium.com/@ethi/looking-back-at-2022-38f95c52ba4a)
+Imported from my article [Medium: Looking Back at 2022](https://medium.com/@ethi/looking-back-at-2022-38f95c52ba4a)
