@@ -34,7 +34,7 @@ Here is a basic structure of the circuit breaker pattern:
 
 Here are some examples of how the circuit breaker design pattern can be implemented in Python and Ruby:
 
-Python
+### Python
 ```Python
 import requests
 import time
@@ -94,7 +94,7 @@ In this example, the CircuitBreaker class implements the circuit breaker design 
 
 The example shows how the circuit breaker can be used to handle requests to a service that may be experiencing intermittent failures. The try/except blocks demonstrate how the call() method can be used to make requests to the service and handle any exceptions that may be raised. The time.sleep() call is included to demonstrate how the circuit can be reset after a certain amount of time has elapsed since the last failure.
 
-Ruby
+### Ruby
 ```Ruby
 require 'net/http'
 class CircuitBreaker
@@ -172,11 +172,12 @@ In the context of software architecture, bulkhead pattern involves dividing an a
 
 ![image](https://user-images.githubusercontent.com/7569031/227789109-2c8c7575-b91a-4687-967c-725597e94183.png)
 > Bulk Head Design Pattern
+
 This pattern is particularly useful in large-scale distributed systems where different parts of the system may be prone to failure, as it allows failures to be contained within a single partition rather than propagating throughout the entire system.
 
 Here are some examples of how the bulkhead design pattern can be implemented in Python and Ruby:
 
-Python
+### Python
 ```Python
 import concurrent.futures
 
@@ -229,7 +230,7 @@ executor.shutdown()
 ```
 In this example, the BulkheadExecutor class implements the bulkhead design pattern by using the concurrent.futures module to create a thread pool with a fixed number of threads. The thread pool is divided into multiple partitions, with each partition having a maximum number of threads. Tasks are submitted to a specific partition, and each partition has its own list of futures for the submitted tasks. The wait() method waits for all the futures in a specific partition to complete before returning. The shutdown() method shuts down the thread pool when it is no longer needed.
 
-Ruby
+### Ruby
 ```Ruby
 require 'concurrent'
 
