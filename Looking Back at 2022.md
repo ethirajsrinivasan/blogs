@@ -54,7 +54,11 @@ One more new skill that I would like to do is practicing yoga/meditation. 2022 w
 I decided to collect a lot of memories to look back in the future. So I started to take a lot of photos of my journey. Created a dedicated Instagram account @duothoughtz for nature and continued creating memories in the form of reels. I did create more memories on my self Instagram account @ethirajchandru. Lots of photos stay back in my hard disk. It is time to convert those photos into more beautiful memories
 
 
-[![image](https://user-images.githubusercontent.com/7569031/227775174-d5f83cba-23b5-420b-a636-e9c1e2b30710.png)](https://youtube.com/shorts/YaQIIIUGKHs)[![image](https://user-images.githubusercontent.com/7569031/227775282-1385f856-7555-42c3-b6c4-49cb43cadba0.png)](https://youtube.com/shorts/lm1vBqjE0ss)
+[![image](https://user-images.githubusercontent.com/7569031/227775174-d5f83cba-23b5-420b-a636-e9c1e2b30710.png)](https://youtube.com/shorts/YaQIIIUGKHs)
+>
+
+[![image](https://user-images.githubusercontent.com/7569031/227775282-1385f856-7555-42c3-b6c4-49cb43cadba0.png)](https://youtube.com/shorts/lm1vBqjE0ss)
+>
 
 
 
