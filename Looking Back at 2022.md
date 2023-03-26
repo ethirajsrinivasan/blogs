@@ -55,13 +55,7 @@ I decided to collect a lot of memories to look back in the future. So I started 
 
 
 [![image](https://user-images.githubusercontent.com/7569031/227775174-d5f83cba-23b5-420b-a636-e9c1e2b30710.png)
-](https://youtube.com/shorts/YaQIIIUGKHs?feature=share)
-
-[![image](https://user-images.githubusercontent.com/7569031/227775282-1385f856-7555-42c3-b6c4-49cb43cadba0.png)
-](https://youtube.com/shorts/lm1vBqjE0ss?feature=share)
-
-[![image](https://user-images.githubusercontent.com/7569031/227775303-95740e96-c8d4-4c88-b8a6-83ae4b723977.png)
-](https://youtube.com/shorts/YWeBa9ZH4M8?feature=share)
+](https://youtube.com/shorts/YaQIIIUGKHs?feature=share)[![image](https://user-images.githubusercontent.com/7569031/227775282-1385f856-7555-42c3-b6c4-49cb43cadba0.png)](https://youtube.com/shorts/lm1vBqjE0ss?feature=share)
 
 
 
