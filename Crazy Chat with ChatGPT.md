@@ -71,3 +71,4 @@ The exact nature of the work done at Area 51 is classified, but it is believed t
 
 Despite its official acknowledgment, there are still many conspiracy theories surrounding Area 51, including claims that it is used for extraterrestrial research and that the US government is hiding evidence of alien life there. However, there is no credible evidence to support these claims, and the US government has consistently denied that there is any connection between Area 51 and aliens or UFOs.
 
+Imported from my article [Medium: Crazy Chat with ChatGPT(https://medium.com/@ethi/crazy-chat-with-chatgpt-26f8611fb5f8)
