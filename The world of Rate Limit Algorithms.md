@@ -62,7 +62,6 @@ Rate limiting algorithms use various techniques to limit the rate of requests or
 Here’s an example of how the algorithm works in practice:
 
 Let’s say we have a web service that allows users to make API requests. We set the window duration to 10 seconds and the maximum number of requests per window to 5.
-
 * In the first 10 seconds, 4 requests are made. These requests are allowed because they are below the maximum limit.
 * In the next 10 seconds, 7 requests are made. The first 5 requests are allowed, but the last 2 are rejected because they exceed the maximum limit.
 * After another 10 seconds, a new window is started and the process starts again.
