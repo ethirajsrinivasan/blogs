@@ -29,34 +29,34 @@ Rate limiting algorithms use various techniques to limit the rate of requests or
 4. After the time window expires, reset the counter to zero.
 
 ```sequence
-                                                                                 [Start]
-                                                                                    |
-                                                                                    v
-                                                                           [Set time window]
-                                                                                    |
-                                                                                    v
-                                                                          [Initialize counter]
-                                                                                    |
-                                                                                    v
-                                                                        [Request or message arrives]
-                                                                                    |
-                                                                                    v
-                                                                        [Counter < Max allowed?]
-                                                                             /           \
-                                                                            /             \
-                                                                         [Yes]           [No]
-                                                                           |               |
-                                                                           v               v
-                                                                        [Process request] [Reject or delay request]
-                                                                                    |
-                                                                                    v
-                                                                            [Time window expires]
-                                                                                    |
-                                                                                    v
-                                                                           [Reset counter]
-                                                                                    |
-                                                                                    v
-                                                                                 [End]
+                                                                     [Start]
+                                                                        |
+                                                                        v
+                                                               [Set time window]
+                                                                        |
+                                                                        v
+                                                              [Initialize counter]
+                                                                        |
+                                                                        v
+                                                            [Request or message arrives]
+                                                                        |
+                                                                        v
+                                                            [Counter < Max allowed?]
+                                                                 /           \
+                                                                /             \
+                                                             [Yes]           [No]
+                                                               |               |
+                                                               v               v
+                                                            [Process request] [Reject or delay request]
+                                                                        |
+                                                                        v
+                                                                [Time window expires]
+                                                                        |
+                                                                        v
+                                                               [Reset counter]
+                                                                        |
+                                                                        v
+                                                                     [End]
 ```
 
 Here’s an example of how the algorithm works in practice:
