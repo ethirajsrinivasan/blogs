@@ -29,34 +29,34 @@ Rate limiting algorithms use various techniques to limit the rate of requests or
 4. After the time window expires, reset the counter to zero.
 
 ```sequence
-                                                     [Start]
-                                                        |
-                                                        v
-                                               [Set time window]
-                                                        |
-                                                        v
-                                              [Initialize counter]
-                                                        |
-                                                        v
-                                            [Request or message arrives]
-                                                        |
-                                                        v
-                                            [Counter < Max allowed?]
-                                                 /           \
-                                                /             \
-                                             [Yes]           [No]
-                                               |               |
-                                               v               v
-                                            [Process request] [Reject or delay request]
-                                                        |
-                                                        v
-                                                [Time window expires]
-                                                        |
-                                                        v
-                                               [Reset counter]
-                                                        |
-                                                        v
-                                                     [End]
+                                               [Start]
+                                                  |
+                                                  v
+                                         [Set time window]
+                                                  |
+                                                  v
+                                        [Initialize counter]
+                                                  |
+                                                  v
+                                      [Request or message arrives]
+                                                  |
+                                                  v
+                                      [Counter < Max allowed?]
+                                           /           \
+                                          /             \
+                                       [Yes]           [No]
+                                         |               |
+                                         v               v
+                                      [Process request] [Reject or delay request]
+                                                  |
+                                                  v
+                                          [Time window expires]
+                                                  |
+                                                  v
+                                         [Reset counter]
+                                                  |
+                                                  v
+                                               [End]
 ```
 
 Here’s an example of how the algorithm works in practice:
@@ -74,40 +74,40 @@ Let’s say we have a web service that allows users to make API requests. We set
 5. Reset the counter to the number of requests or messages within the sliding time window.
 
 ```sequence
-                                                    [Start]
-                                                       |
-                                                       v
-                                              [Set time window]
-                                                       |
-                                                       v
-                                             [Initialize counter]
-                                                       |
-                                                       v
-                                           [Request or message arrives]
-                                                       |
-                                                       v
-                                                 [Add to queue]
-                                                       |
-                                                       v
-                                             [Remove old requests]
-                                                       |
-                                                       v
-                                           [Queue size <= Max allowed?]
-                                                /           \
-                                               /             \
-                                            [Yes]           [No]
-                                              |               |
-                                              v               v
-                                           [Process request] [Reject or delay request]
-                                                       |
-                                                       v
-                                             [Slide time window]
-                                                       |
-                                                       v
-                                              [Reset counter]
-                                                       |
-                                                       v
-                                                    [End]
+                                              [Start]
+                                                 |
+                                                 v
+                                        [Set time window]
+                                                 |
+                                                 v
+                                       [Initialize counter]
+                                                 |
+                                                 v
+                                     [Request or message arrives]
+                                                 |
+                                                 v
+                                           [Add to queue]
+                                                 |
+                                                 v
+                                       [Remove old requests]
+                                                 |
+                                                 v
+                                     [Queue size <= Max allowed?]
+                                          /           \
+                                         /             \
+                                      [Yes]           [No]
+                                        |               |
+                                        v               v
+                                     [Process request] [Reject or delay request]
+                                                 |
+                                                 v
+                                       [Slide time window]
+                                                 |
+                                                 v
+                                        [Reset counter]
+                                                 |
+                                                 v
+                                              [End]
 ```
 
 ### Token Bucket Rate Limit Algorithm:
@@ -118,41 +118,41 @@ Let’s say we have a web service that allows users to make API requests. We set
 5. If the number of tokens in the bucket exceeds the maximum allowed, set it to the maximum allowed.
 
 ```Sequence
-                                                      [Start]
-                                                         |
-                                                         v
-                                             [Set max tokens & rate]
-                                                         |
-                                                         v
-                                             [Initialize bucket]
-                                                         |
-                                                         v
-                                             [Request or message arrives]
-                                                         |
-                                                         v
-                                             [Tokens >= Required?]
-                                                  /           \
-                                                 /             \
-                                              [Yes]           [No]
-                                                |               |
-                                                v               v
-                                             [Remove tokens ] [Reject or delay request]
-                                             & Process Request 
-                                                         |
-                                                         v
-                                                  [Add tokens]
-                                                         |
-                                                         v
-                                              [Tokens <= Max allowed?]
-                                                  /           \
-                                                 /             \
-                                              [Yes]           [No]
-                                                |               |
-                                                v               v
-                                             [Do nothing]  [Set tokens to max allowed]
-                                                         |
-                                                         v
-                                                      [End]
+                                              [Start]
+                                                 |
+                                                 v
+                                     [Set max tokens & rate]
+                                                 |
+                                                 v
+                                     [Initialize bucket]
+                                                 |
+                                                 v
+                                     [Request or message arrives]
+                                                 |
+                                                 v
+                                     [Tokens >= Required?]
+                                          /           \
+                                         /             \
+                                      [Yes]           [No]
+                                        |               |
+                                        v               v
+                                     [Remove tokens ] [Reject or delay request]
+                                     & Process Request 
+                                                 |
+                                                 v
+                                          [Add tokens]
+                                                 |
+                                                 v
+                                      [Tokens <= Max allowed?]
+                                          /           \
+                                         /             \
+                                      [Yes]           [No]
+                                        |               |
+                                        v               v
+                                     [Do nothing]  [Set tokens to max allowed]
+                                                 |
+                                                 v
+                                              [End]
 ```         
          
 ### Leaky Bucket Rate Limit Algorithm:
@@ -163,40 +163,40 @@ Let’s say we have a web service that allows users to make API requests. We set
 5. If the number of leaked tokens is greater than the number of tokens in the bucket, set the number of tokens in the bucket to zero.
 
 ```sequence
-                                                    [Start]
-                                                       |
-                                                       v
-                                           [Set max tokens & rate]
-                                                       |
-                                                       v
-                                           [Initialize bucket]
-                                                       |
-                                                       v
-                                           [Request or message arrives]
-                                                       |
-                                                       v
-                                           [Tokens + Required <= Max allowed?]
-                                                /           \
-                                               /             \
-                                            [Yes]           [No]
-                                              |               |
-                                              v               v
-                                           [Add tokens]   [Reject or delay request]
-                                                       |
-                                                       v
-                                                [Leak tokens]
-                                                       |
-                                                       v
-                                            [Tokens >= Leaked?]
-                                                /           \
-                                               /             \
-                                            [Yes]           [No]
-                                              |               |
-                                              v               v
-                                           [Do nothing] [Set tokens to zero]
-                                                       |
-                                                       v
-                                                    [End]
+                                              [Start]
+                                                 |
+                                                 v
+                                     [Set max tokens & rate]
+                                                 |
+                                                 v
+                                     [Initialize bucket]
+                                                 |
+                                                 v
+                                     [Request or message arrives]
+                                                 |
+                                                 v
+                                     [Tokens + Required <= Max allowed?]
+                                          /           \
+                                         /             \
+                                      [Yes]           [No]
+                                        |               |
+                                        v               v
+                                     [Add tokens]   [Reject or delay request]
+                                                 |
+                                                 v
+                                          [Leak tokens]
+                                                 |
+                                                 v
+                                      [Tokens >= Leaked?]
+                                          /           \
+                                         /             \
+                                      [Yes]           [No]
+                                        |               |
+                                        v               v
+                                     [Do nothing] [Set tokens to zero]
+                                                 |
+                                                 v
+                                              [End]
  ```
  
 ### Adaptive Rate Limit Algorithm:
@@ -207,43 +207,43 @@ Let’s say we have a web service that allows users to make API requests. We set
 5. If the number of requests allowed per unit time reaches a certain minimum value, reject or delay any further requests until the time window resets.
 
 ```sequence
-                                                    [Start]
-                                                       |
-                                                       v
-                                           [Initialize requests per unit time]
-                                                       |
-                                                       v
-                                           [Request or message arrives]
-                                                       |
-                                                       v
-                                           [Requests <= Allowed?]
-                                                /           \
-                                               /             \
-                                            [Yes]           [No]
-                                              |               |
-                                              v               v
-                                           [Process]     [Increase time, decrease requests]
-                                                       |
-                                                       v
-                                           [Time window reaches max?]
-                                                /           \
-                                               /             \
-                                            [Yes]           [No]
-                                              |               |
-                                              v               v
-                                           [Reject or delay] [Reset time, requests]
-                                                       |
-                                                       v
-                                           [Requests reach min?]
-                                                /           \
-                                               /             \
-                                            [Yes]           [No]
-                                              |               |
-                                              v               v
-                                           [Reject or delay] [Continue processing]
-                                                       |
-                                                       v
-                                                    [End]
+                                              [Start]
+                                                 |
+                                                 v
+                                     [Initialize requests per unit time]
+                                                 |
+                                                 v
+                                     [Request or message arrives]
+                                                 |
+                                                 v
+                                     [Requests <= Allowed?]
+                                          /           \
+                                         /             \
+                                      [Yes]           [No]
+                                        |               |
+                                        v               v
+                                     [Process]     [Increase time, decrease requests]
+                                                 |
+                                                 v
+                                     [Time window reaches max?]
+                                          /           \
+                                         /             \
+                                      [Yes]           [No]
+                                        |               |
+                                        v               v
+                                     [Reject or delay] [Reset time, requests]
+                                                 |
+                                                 v
+                                     [Requests reach min?]
+                                          /           \
+                                         /             \
+                                      [Yes]           [No]
+                                        |               |
+                                        v               v
+                                     [Reject or delay] [Continue processing]
+                                                 |
+                                                 v
+                                              [End]
 ```
 
 ## Python implementations of Rate Limit Algorithm
