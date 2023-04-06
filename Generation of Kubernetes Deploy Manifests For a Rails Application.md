@@ -9,7 +9,7 @@ Follow the steps below to generate the deploy manifest files:
 
 ```bash
 # MacOS
-brew install bash
+brew install helm
 ```
 
 ```bash
