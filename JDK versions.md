@@ -1,6 +1,8 @@
 ## Which JDK Vendor should you use for your project ?
 Java was originally developed by Sun Microsystems, a technology company that was founded in 1982. Sun Microsystems released the first version of Java in 1995, and it quickly gained popularity as a versatile and platform-independent programming language.
 
+![Java Developer By Reka Illyes From Unsplash](https://images.unsplash.com/photo-1617729420692-219af0d56dae)
+
 In 2010, Oracle Corporation, another technology company, acquired Sun Microsystems, including its Java-related assets, as part of a business acquisition. This included the ownership of Java, including its intellectual property, trademarks, copyrights, and other related assets.
 
 After the acquisition, Oracle became the new owner and steward of Java, taking over the responsibility for its development, maintenance, and support. Oracle continued to invest in Java, providing updates, enhancements, and new versions of the Java platform, including the Java Development Kit (JDK) and Java Runtime Environment (JRE).
