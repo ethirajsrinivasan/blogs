@@ -1,4 +1,4 @@
-## Which JDK Vendor should you use for your project ?
+## JDK variants: From Sun MicroSystems to Oracle and Beyond
 Java was originally developed by Sun Microsystems, a technology company that was founded in 1982. Sun Microsystems released the first version of Java in 1995, and it quickly gained popularity as a versatile and platform-independent programming language.
 
 ![Java Developer By Reka Illyes From Unsplash](https://images.unsplash.com/photo-1617729420692-219af0d56dae)
