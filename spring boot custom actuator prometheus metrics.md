@@ -1,19 +1,21 @@
 ## Add custom actuator prometheus metric in spring boot
 
-This article describes a elegant way to add custom actuator prometheus metric to our spring boot article. Spring boot, a powerful java based framework to develop micro services web application provides many easy to configure solutions for developers need. Developing a microservices application is complete only when we can monitor these microservices. Spring boot provides actuator to help monitor these microservices. Actuator uses HTTP endpoints to provide information about the application. Actuator provides lot of metrics like the database connections , thread information, memory information, HTTP client and server requests etc. 
+This article describes a elegant way to add custom actuator prometheus metric to our spring boot article. Spring boot, a powerful java based framework to develop micro services web application provides many easy to configure solutions for developers need. Developing a microservices application is complete only when we can monitor these microservices. Spring boot provides actuator to help monitor these microservices. Actuator uses HTTP endpoints to provide information about the application. Actuator provides lot of metrics like the database connections , thread information, memory information, HTTP client and server requests etc. Below are the 3 steps to add custom actuator prometheus metrics in spring boot
 
-In order to add actuator to your spring boot application add the following to your pom.xml 
+1. Enable Actuator in Spring Boot Application
+2. Add Micrometer Prometheus based metric to the application
+3. Add custom metrics to micrometer prometheus
 
+### Enable Actuator in Spring Boot Application
+
+In order to add actuator to the spring boot application add the following to pom.xml 
 
 For Maven
 ```java
-<dependencies>
-	<dependency>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-actuator</artifactId>
-	</dependency>
-</dependencies>
-
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-actuator</artifactId>
+</dependency>
 ```
 
 For Gradle
@@ -38,7 +40,7 @@ The actuator provides a health check endpoint which shows the status of the appl
 
 ![Health EndPoint](https://user-images.githubusercontent.com/7569031/233108139-1bd8bb24-e095-4a07-a5e5-0ba972e79eea.png)
 
-Actuator does provide more than just the health information. To unlock its true potential we need to expose its endpoint to the outside world. To do this include the following in your application.properties
+Actuator does provide more than just the health information. To unlock its true potential expose its endpoint to the outside world. To do this include the following in application.properties
 
 ```file
 management.endpoint.info.enabled=true
@@ -70,10 +72,36 @@ Now go to http://localhost:8080/actuator to see more actuator end points exposed
 "mappings":{"href":"http://localhost:8080/actuator/mappings","templated":false}}}
 ```
 
-As you can see the actuator provides information about beans, env, heapdump, threaddump, metrics etc. In order to get any detailed information you can click on the link. In case of threaddump click: http://localhost:8080/actuator/threaddump
+As seen above the actuator provides information about beans, env, heapdump, threaddump, metrics etc. In order to get any detailed information click on the link. In case of threaddump click: http://localhost:8080/actuator/threaddump
 
 ![Thread Dump Info](https://user-images.githubusercontent.com/7569031/233135743-6ba4d395-574b-49a1-880e-f1a52a5d896e.png)
 
+### Add Micrometer Prometheus based metric to the application
+
+Next to publish the metrics to monitoring tools like Prometheus, Datadog or Dynatrace a standard format is required. Micrometer acts as that intermediate layer to easily interface with the monitoring tools. Prometheus is chosen for this example which is used to perform time series analysis and uses pull based approach. Simply add micrometer prometheus setup to the application by including the below dependency
+
+For Maven
+```java
+<dependency>
+	<groupId>io.micrometer</groupId>
+	<artifactId>micrometer-registry-prometheus</artifactId>
+	<scope>runtime</scope>
+</dependency>
+
+```
+
+For Gradle
+```java
+dependencies {
+	compile("io.micrometer:micrometer-registry-prometheus")
+}
+```
+
+Now run the application again to see the new actuator point - http://localhost:8080/actuator/prometheus. 
+
+![Acutuator Prometheus Metrics](https://user-images.githubusercontent.com/7569031/233418124-8155ef76-19e3-4644-b8bd-7e1e062409e2.png)
+
+### Add custom metrics to micrometer prometheus
 
 
 
