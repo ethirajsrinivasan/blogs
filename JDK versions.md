@@ -37,7 +37,7 @@ It's important to note that while Oracle JDK is no longer free for commercial us
 * **Oracle JDK**
 * **OpenJDK**
 * **Amazon Corretto**
-* **AdoptOpenJDK**
+* **AdoptOpenJDK (Eclipse Temurin) **
 * **Zulu JDK**
 * **GraalVM**
 
@@ -90,13 +90,17 @@ sudo yum install amazon-corretto-11
 * For Windows or macOS, you can download the Amazon Corretto installer from the official Amazon Corretto website (https://aws.amazon.com/corretto/).
 
 
-**AdoptOpenJDK**
+**AdoptOpenJDK (Eclipse Temurin)**
 
-This is a community-led effort to provide free, open-source distributions of OpenJDK with timely updates, long-term support options, and a wide range of platforms and architectures supported. It is sponsored by several organizations and provides features such as timely updates, support for various platforms, and performance optimizations. It is a popular choice for applications that require a free and open-source JDK with options for long-term support and a wide range of platform support. To install AdoptOpenJDK, you can follow these general steps:
-* Go to the AdoptOpenJDK website (https://adoptopenjdk.net/).
-* Select the desired JDK version, type (e.g., HotSpot or OpenJ9), and operating system.
-* Click on the "Latest release" link to download the installer.
-* Run the installer and follow the on-screen instructions to install AdoptOpenJDK.
+This is a eclipse foundation effort to provide free, open-source distributions of OpenJDK with timely updates, long-term support options, and a wide range of platforms and architectures supported. It provides features such as timely updates, support for various platforms, and performance optimizations. It is a popular choice for applications that require a free and open-source JDK with options for long-term support and a wide range of platform support. To download Adoptium JDK (formerly known as AdoptOpenJDK) from Temurin, follow these steps:
+
+* Go to the Temurin website: https://adoptium.net/
+* Click on the “Download” button in the top navigation menu.
+* Select the version of the JDK you want to download from the dropdown menu. You can choose from the latest LTS release, the latest feature release, or a specific version.
+* Choose the operating system and architecture you want to download for. The options available will depend on the version of the JDK you selected.
+* Click on the “Download” button for the appropriate package.
+* You will be redirected to a page with a list of mirrors where you can download the JDK. Choose a mirror closest to your location and click on the link to download the JDK package.
+* Once the download is complete, extract the contents of the package and follow the installation instructions for your operating system.
 
 **Zulu JDK**
 
