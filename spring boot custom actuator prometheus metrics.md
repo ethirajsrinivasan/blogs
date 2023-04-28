@@ -40,7 +40,7 @@ The actuator provides a health check endpoint which shows the status of the appl
 
 Actuator does provide more than just the health information. To unlock its true potential expose its endpoint to the outside world. To do this include the following in application.properties
 
-```file
+```bash
 management.endpoint.info.enabled=true
 management.endpoints.web.exposure.include=*
 ```
