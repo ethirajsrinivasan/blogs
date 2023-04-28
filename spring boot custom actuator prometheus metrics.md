@@ -178,19 +178,19 @@ public class DemoService {
 Once these methods are called navigate to http://localhost:8080/actuator/prometheus/ to see the custom metrics
 
 
-```
+```java
 # HELP custom_counter_metric_total  
 # TYPE custom_counter_metric_total counter
 custom_counter_metric_total 6.0
 ```
 
-```
+```java
 # HELP custom_gauge_metric  
 # TYPE custom_gauge_metric gauge
 custom_gauge_metric 1.0
 ```
 
-```
+```java
 # HELP custom_timer_metric_seconds_max  
 # TYPE custom_timer_metric_seconds_max gauge
 custom_timer_metric_seconds_max 0.0
