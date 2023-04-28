@@ -46,5 +46,5 @@ Multi steps prompts helps to solve a complex decision making process or process 
 
 Hope prompt engineering brings many more opportunities for the human race!!!
 
-Imported from my articel [Medium: Can AI provide any new job opportunities?](https://medium.com/gitconnected/prompt-engineering-a-job-opportunity-given-by-ai-43ceb1fed38)
+Imported from my artice [Medium: Can AI provide any new job opportunities?](https://medium.com/gitconnected/prompt-engineering-a-job-opportunity-given-by-ai-43ceb1fed38)
 
