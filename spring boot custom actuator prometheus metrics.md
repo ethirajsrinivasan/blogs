@@ -1,4 +1,4 @@
-## Add custom actuator prometheus metric in spring boot
+## Custom Actuator Prometheus Metric For Better Spring Boot Application Monitoring
 
 This article describes a elegant way to add custom actuator prometheus metric to our spring boot article. Spring boot, a powerful java based framework to develop micro services web application provides many easy to configure solutions for developers need. Developing a microservices application is complete only when we can monitor these microservices. Spring boot provides actuator to help monitor these microservices. Actuator uses HTTP endpoints to provide information about the application. Actuator provides lot of metrics like the database connections , thread information, memory information, HTTP client and server requests etc. Below are the 3 steps to add custom actuator prometheus metrics in spring boot
 
