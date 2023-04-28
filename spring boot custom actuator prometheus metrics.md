@@ -1,9 +1,10 @@
 ## Custom Actuator Prometheus Metric For Better Spring Boot Application Monitoring
 
-This article describes a elegant way to add custom actuator prometheus metric to our spring boot article. Spring boot, a powerful java based framework to develop micro services web application provides many easy to configure solutions for developers need. Developing a microservices application is complete only when we can monitor these microservices. Spring boot provides actuator to help monitor these microservices. Actuator uses HTTP endpoints to provide information about the application. Actuator provides lot of metrics like the database connections , thread information, memory information, HTTP client and server requests etc. Below are the 3 steps to add custom actuator prometheus metrics in spring boot
 
-1. Enable Actuator in Spring Boot Application
-2. Add Micrometer Prometheus based metric to the application
+This article describes a elegant way to add custom actuator prometheus metric to Spring Boot Application. Spring boot, a powerful java based framework to develop micro services web application provides many easy to configure solutions for developers need. Developing a microservices application is complete only when we can monitor these microservices. Spring boot provides Actuator to help monitor these microservices. Actuator uses HTTP endpoints to provide information about the application. Actuator provides lot of metrics like the database connections , thread information, memory information, HTTP client and server requests etc. Below are the 3 steps to add custom actuator prometheus metrics in spring boot
+
+1. Enable actuator in spring boot application
+2. Add prometheus micrometer to the application
 3. Add custom metrics to micrometer prometheus
 
 ### Enable Actuator in Spring Boot Application
@@ -16,13 +17,6 @@ For Maven
 	<groupId>org.springframework.boot</groupId>
 	<artifactId>spring-boot-starter-actuator</artifactId>
 </dependency>
-```
-
-For Gradle
-```java
-dependencies {
-	compile("org.springframework.boot:spring-boot-starter-actuator")
-}
 ```
 
 Run your spring application using 
@@ -90,13 +84,6 @@ For Maven
 
 ```
 
-For Gradle
-```java
-dependencies {
-	compile("io.micrometer:micrometer-registry-prometheus")
-}
-```
-
 Now run the application again to see the new actuator point - http://localhost:8080/actuator/prometheus. 
 
 ![Acutuator Prometheus Metrics](https://user-images.githubusercontent.com/7569031/233418124-8155ef76-19e3-4644-b8bd-7e1e062409e2.png)
@@ -136,7 +123,7 @@ counter.increment(5);
 //custom logic
 timer.record(Duration.between(tenMinuteBefore,LocalDateTime.now()).getSeconds(), TimeUnit.SECONDS);
 ```
-A Sample Service class is as follows
+A sample service class is as follows
 ```java
 @Service
 public class DemoService {
@@ -176,7 +163,7 @@ public class DemoService {
 }
 ```
 
-Once these methods are called navigate to `localhost:8080/actuator/prometheus/` to see the customer metrics
+Once these methods are called navigate to http://localhost:8080/actuator/prometheus/ to see the customer metrics
 
 
 ```
