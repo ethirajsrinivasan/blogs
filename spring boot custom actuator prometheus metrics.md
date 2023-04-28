@@ -8,7 +8,7 @@ This article describes a elegant way to add custom actuator prometheus metric to
 3. Add custom metrics to micrometer prometheus
 
 <br>
-<h5 align="center">&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;</h5>
+<h6 align="center">&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;</h6>
 <br>
 
 ### Enable Actuator in Spring Boot Application
@@ -75,7 +75,7 @@ As seen above the actuator provides information about beans, env, heapdump, thre
 ![Thread Dump Info](https://user-images.githubusercontent.com/7569031/233135743-6ba4d395-574b-49a1-880e-f1a52a5d896e.png)
 
 <br>
-<h5 align="center">&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;</h5>
+<h6 align="center">&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;</h6>
 <br>
 
 ### Add Micrometer Prometheus based metric to the application
@@ -97,7 +97,7 @@ Now run the application again to see the new actuator point - http://localhost:8
 ![Acutuator Prometheus Metrics](https://user-images.githubusercontent.com/7569031/233418124-8155ef76-19e3-4644-b8bd-7e1e062409e2.png)
 
 <br>
-<h5 align="center">&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;</h5>
+<h6 align="center">&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;</h6>
 <br>
 
 ### Add custom metrics to micrometer prometheus
