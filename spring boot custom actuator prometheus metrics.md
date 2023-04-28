@@ -103,6 +103,106 @@ Now run the application again to see the new actuator point - http://localhost:8
 
 ### Add custom metrics to micrometer prometheus
 
+Now that the default prometheus metrics are available time to add the custom metrics. Custom metrics can be added in service or business logic classes. Two objects are essential to build the custom metric
+1. MeterRegistry
+2. Metric Type Object - Counter/Gauge/Timer
+
+* Use Spring boot @Autowired annotation to create MeterRegistry
+
+```java
+    @Autowired
+    MeterRegistry registry;
+```
+
+* Next initialize the metric type in constructor or post construct methods like below
+```java
+@PostConstruct
+public void initialize(){
+	counter = Counter.builder("custom_counter_metric").register(registry);
+	Gauge.builder("custom_gauge_metric",numbersList,Collection::size).register(registry);
+	timer = Timer.builder("custom_timer_metric").register(registry);
+}
+```
+
+* Record the metrics in methods as follows
+
+```java
+//custom logic
+counter.increment();
+counter.increment(5);
+```
+
+```java
+//custom logic
+timer.record(Duration.between(tenMinuteBefore,LocalDateTime.now()).getSeconds(), TimeUnit.SECONDS);
+```
+A Sample Service class is as follows
+```java
+@Service
+public class DemoService {
+
+    @Autowired
+    MeterRegistry registry;
+
+    private Counter counter;
+
+    private ArrayList numbersList = new ArrayList<>();
+
+    private Timer timer;
+
+
+    @PostConstruct
+    public void initialize(){
+	counter = Counter.builder("custom_counter_metric").register(registry);
+	Gauge.builder("custom_gauge_metric",numbersList,Collection::size).register(registry);
+	timer = Timer.builder("custom_timer_metric").register(registry);
+     }
+
+    public void incrementCounter() {
+        //custom logic
+        counter.increment();
+        counter.increment(5);
+    }
+
+    public void processGauge() {
+        numbersList.add(new Random());
+    }
+
+    public void recordTime() {
+        LocalDateTime tenMinuteBefore = LocalDateTime.now().minusMinutes(10);
+        //custom logic
+        timer.record(Duration.between(tenMinuteBefore,LocalDateTime.now()).getSeconds(), TimeUnit.SECONDS);
+    }
+}
+```
+
+Once these methods are called navigate to `localhost:8080/actuator/prometheus/` to see the customer metrics
+
+
+```
+# HELP custom_counter_metric_total  
+# TYPE custom_counter_metric_total counter
+custom_counter_metric_total 6.0
+```
+
+```
+# HELP custom_gauge_metric  
+# TYPE custom_gauge_metric gauge
+custom_gauge_metric 1.0
+```
+
+```
+# HELP custom_timer_metric_seconds_max  
+# TYPE custom_timer_metric_seconds_max gauge
+custom_timer_metric_seconds_max 0.0
+# HELP custom_timer_metric_seconds  
+# TYPE custom_timer_metric_seconds summary
+custom_timer_metric_seconds_count 1.0
+custom_timer_metric_seconds_sum 600.0
+```
+
+Thus custom metrics are added to the spring boot application. Happy Monitoring !!!
+	
 
 
 
