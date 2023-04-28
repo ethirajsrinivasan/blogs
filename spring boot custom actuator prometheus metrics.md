@@ -7,6 +7,8 @@ This article describes a elegant way to add custom actuator prometheus metric to
 2. Add prometheus micrometer to the application
 3. Add custom metrics to micrometer prometheus
 
+<h5 class="text-center">&#x2022;    &#x2022;    &#x2022; </h5>
+
 ### Enable Actuator in Spring Boot Application
 
 In order to add actuator to the spring boot application add the following to pom.xml 
@@ -70,6 +72,8 @@ As seen above the actuator provides information about beans, env, heapdump, thre
 
 ![Thread Dump Info](https://user-images.githubusercontent.com/7569031/233135743-6ba4d395-574b-49a1-880e-f1a52a5d896e.png)
 
+<h5 class="text-center">&#x2022;    &#x2022;    &#x2022; </h5>
+
 ### Add Micrometer Prometheus based metric to the application
 
 Next to publish the metrics to monitoring tools like Prometheus, Datadog or Dynatrace a standard format is required. Micrometer acts as that intermediate layer to easily interface with the monitoring tools. Prometheus is chosen for this example which is used to perform time series analysis and uses pull based approach. Simply add micrometer prometheus setup to the application by including the below dependency
@@ -87,6 +91,8 @@ For Maven
 Now run the application again to see the new actuator point - http://localhost:8080/actuator/prometheus. 
 
 ![Acutuator Prometheus Metrics](https://user-images.githubusercontent.com/7569031/233418124-8155ef76-19e3-4644-b8bd-7e1e062409e2.png)
+
+<h5 class="text-center">&#x2022;    &#x2022;    &#x2022; </h5>
 
 ### Add custom metrics to micrometer prometheus
 
