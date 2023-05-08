@@ -96,6 +96,8 @@ Relying on a single source of income can be very risky as unexpected events can 
 * E-commerce: e-commerce business by selling products through platforms such as Amazon, Etsy, or Shopify.
 * Passive income streams: monetizing a blog or YouTube channel through advertising, affiliate marketing, or sponsorships.
 
----
+<br>
+<h6 align="center">&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;</h6>
+<br>
 
 Do try to make these as a checklist and strive them off as early as possible. I hope these can greatly change your lifestyle.
