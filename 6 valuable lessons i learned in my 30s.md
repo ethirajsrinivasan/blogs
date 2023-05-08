@@ -50,11 +50,13 @@ Though we intake proper food for our body it is also important to keep our body 
 
 
 All these pay benefit only if we have proper sleep. Sleeping for 8 hours is very much needed for your health. 
+
 ![image](https://user-images.githubusercontent.com/7569031/236862913-e4e620f3-9759-4e7f-abb8-d6d1b71e242d.png)
 > Photo by Brett Jordan on Unsplash
 
 ### 3. Investing
-We all love to be wealthy but that is not possible without investing. So start investing at an early stage. The power of compounding is immense when we start investing at an early stage. 
+We all love to be wealthy but that is not possible without investing. So start investing at an early stage. The power of compounding is immense when we start investing at an early stage.
+
 ![image](https://user-images.githubusercontent.com/7569031/236863422-d397d39f-f7e2-42da-b48f-2e5c84d12e63.png)
 
 I follow a simple formula for my investing journey. From my income, I first pay the term insurance and health insurance premiums and then invest a portion of the remaining income and finally, use the remaining amount for the expenditure. I try to automate my investments to a certain level because it brings in disciplined constant investment. I invest in a diverse set of portfolios and use apps like moomoo for equity, and coinhako for cryptocurrency. 
@@ -65,10 +67,10 @@ World is now a huge competition in whatever field we take. Thus we need to be ah
 
 ### 5. Growth skills 
 Apart from the professional skills that we develop over the years developing skills other than work is also essential for our lifestyle. It could be cooking, photography, or dancing. I developed my reading skills and enjoyed reading some of great books like
-Peak: Secrets from the New Science of Expertise
-The Power of Your Subconscious Mind
-Sticky Habits
-Warren Buffett: The Business and Life Lessons
+* [Peak: Secrets from the New Science of Expertise](https://amzn.to/3nV4pck)
+* [The Power of Your Subconscious Mind](https://amzn.to/3zDSbHx)
+* [Sticky Habits](https://amzn.to/3Goxof1)
+* [Warren Buffett: The Business and Life Lessons](https://amzn.to/3nVa2Y5)
 
 Recently I also cultivated my writing skills and published some blogs at https://ethigeek.com/blogs.html
 Can AI provide any new job opportunities?
