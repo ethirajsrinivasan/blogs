@@ -11,13 +11,13 @@ Life is a great teacher. Being in my early thirties, life has taught me valuable
 #### Term Insurance 
 The first and topmost priority of any person, once they start earning, should be to take term insurance. Term insurance is the financial security that we leave behind for our family and it tops the list of priorities. Earlier the term insurance is taken lesser is the premium amount to be paid. Decide on the insurance amount as per your needs and financial status. Never mix term insurance with other kinds of insurance like investment cum term insurance. Always remember term insurance is not an investment it is financial security.
 
-![image](https://user-images.githubusercontent.com/7569031/236856268-4209dbce-909f-4b05-8fa6-c94350ec243e.png)
+![Term Insurance Premium By Age](https://user-images.githubusercontent.com/7569031/236856268-4209dbce-909f-4b05-8fa6-c94350ec243e.png)
 > Term Insurance Premium By Age. Source: https://shorturl.at/lATZ2
 
 #### Health Insurance
 After securing the family the next objective is to take care of the health of the family. Coming from a middle-class family, I was reluctant to take health insurance because it was expensive for the income that I earned, and if there were no claims in that financial year it was money that never comes back. But I didn't take the risk and took the basic health insurance policy. Believe me, it helped me at many critical times and I embraced myself for taking it.
 
-![image](https://user-images.githubusercontent.com/7569031/236858555-b474df05-eec7-4a8f-add0-bce637372445.png)
+![Father safegauarding a new born](https://user-images.githubusercontent.com/7569031/236858555-b474df05-eec7-4a8f-add0-bce637372445.png)
 > Photo by Bonnie Kittle on Unsplash
 
 Over the years I learned about top-up health insurance policy which acts as a complement to the basic health insurance policy. Basic and top-up health insurance both have lower and upper limits eg basic health insurance's lower and upper limit is $0 - $3000 and top-up health insurance's lower and upper limit is $3000- $10000. Once our claim limit exceeds 3000$ let's say it is $5000 then we can claim $3000 from the basic health insurance and ($5000 - $3000) $2000 from the top-up health insurance.
@@ -32,7 +32,7 @@ Health is critical to enjoying our life. Being health-conscious for me was on an
 
 Check out my article on how I transformed myself in the year 2022
 
-<div class="embed_link">https://medium.com/@ethi/looking-back-at-2022-38f95c52ba4a</div>
+>https://medium.com/@ethi/looking-back-at-2022-38f95c52ba4a
 
 It was so surprising for me how I transformed myself from a person who hates vegetables to a person who loves vegetables. When I moved to a new country and was alone, I realized the importance of having healthy food and was much more aware of my health.
 
@@ -63,7 +63,7 @@ World is now a huge competition in whatever field we take. Thus we need to be ah
 
 Check out my personal website:
 
-https://ethigeek.com
+>https://ethigeek.com
 
 ## 5. Growth skills 
 Apart from the professional skills that we develop over the years developing skills other than work is also essential for our lifestyle. It could be cooking, photography, or dancing. I developed my reading skills and enjoyed reading some of great books like
@@ -74,9 +74,9 @@ Apart from the professional skills that we develop over the years developing ski
 
 Recently I also cultivated my writing skills and published some blogs at https://ethigeek.com/blogs.html
 
-<div class="embed_link">https://ethigeek.com/blogs/can-ai-provide-any-new-job-opportunities.html</div>
-<div class="embed_link">https://ethigeek.com/blogs/custom-actuator-prometheus-metric-for-better-spring-boot-application-monitoring.html</div>
-<div class="embed_link">https://ethigeek.com/blogs/jdk-variants-from-sun-microsystems-to-oracle-and-beyond.html</div>
+>https://ethigeek.com/blogs/can-ai-provide-any-new-job-opportunities.html
+>https://ethigeek.com/blogs/custom-actuator-prometheus-metric-for-better-spring-boot-application-monitoring.html
+>https://ethigeek.com/blogs/jdk-variants-from-sun-microsystems-to-oracle-and-beyond.html
 
 Developing non-professional skills can help us in a number of ways.
 * Boosting creativity: New skills help us to think creatively and improve our problem-solving abilities
