@@ -24,8 +24,9 @@ Over the years I learned about top-up health insurance policy which acts as a co
 
 We don't often claim for top-up health insurance as it has a higher lower limit. Hence for the fact, top-up health insurance is much more affordable. Work out the combination of lower and upper limits of the basic and top-up health insurance policy as per your needs. Even if a basic health insurance policy is not affordable take a top-up health insurance policy it will definitely help in critical times.
 
+
 ### 2. Health
-> "The first wealth is health" by Ralph Waldo Emerson
+> <i>"The first wealth is health" by Ralph Waldo Emerson</i>
 
 Health is critical to enjoying our life. Being health-conscious for me was on and off. Few months, I would be so dedicated, and in other months I would be ignorant. My body could feel the difference between when I am dedicated and when I am not. So I have managed to put in a constant effort over the years.
 
@@ -55,7 +56,7 @@ We all love to be wealthy but that is not possible without investing. So start i
 ![Compunding By Age](https://user-images.githubusercontent.com/7569031/236863422-d397d39f-f7e2-42da-b48f-2e5c84d12e63.png)
 
 I follow a simple formula for my investing journey. From my income, I first pay the term insurance and health insurance premiums and then invest a portion of the remaining income and finally, use the remaining amount for the expenditure. I try to automate my investments to a certain level because it brings in disciplined constant investment. I invest in a diverse set of portfolios and use apps like [moomoo](https://j.moomoo.com/00xAOU) for equity, and [coinhako](https://www.coinhako.com/affiliations/sign_up/285810_54724814) for cryptocurrency. 
-> Income - Insurance(Term+health) - Savings - Expenditure
+><b><i> Income - Insurance(Term+health) - Savings - Expenditure</i></b>
 
 ### 4. Digital Presence
 World is now a huge competition in whatever field we take. Thus we need to be ahead of others. Having a digital presence in your field gives you an advantage over others and creates more visibility for us. It is also a great opportunity to showcase our skills. For a UI/UX professional it could be an account in Behance. For a photographer, it could be a professional Instagram profile. For a software professional like me it could be a [personal website](https://ethigeek.com). Create a digital presence and shine ahead in your field.
