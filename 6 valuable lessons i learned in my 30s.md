@@ -1,7 +1,8 @@
 ## 6 Valuable Life Lessons I Learned in My Early 30s 
 ### Insights and Advice on Finance, Health, Investing, Digital Presence, and Growth Skills 
 
-![image](https://user-images.githubusercontent.com/7569031/236854361-6428260e-cc2e-445b-862e-c15d765311a2.png)
+![group of teenagers](https://user-images.githubusercontent.com/7569031/236854361-6428260e-cc2e-445b-862e-c15d765311a2.png)
+> Photo by Helena Lopes on Unsplash
 
 
 Life is a great teacher. Being in my early thirties, life has taught me valuable lessons that I should have been aware of in my young adult age. Nevertheless, I would like to share these valuable lessons with the current generation for their own future. 
@@ -34,9 +35,7 @@ Health is critical to enjoying our life. Being health-conscious for me was on an
 
 Check out my article on how I transformed myself in the year 2022
 
-https://medium.com/@ethi/looking-back-at-2022-38f95c52ba4a
-
-
+<div class="embed_link">https://medium.com/@ethi/looking-back-at-2022-38f95c52ba4a</div>
 
 It was so surprising for me how I transformed myself from a person who hates vegetables to a person who loves vegetables. When I moved to a new country and was alone, I realized the importance of having healthy food and was much more aware of my health.
 
