@@ -1,5 +1,5 @@
 ## 6 Valuable Life Lessons I Learned in My Early 30s 
-### Insights and Advice on Finance, Health, Investing, Digital Presence, and Growth Skills 
+#### Insights and Advice on Finance, Health, Investing, Digital Presence, and Growth Skills 
 
 ![group of teenagers](https://user-images.githubusercontent.com/7569031/236854361-6428260e-cc2e-445b-862e-c15d765311a2.png)
 > Photo by Helena Lopes on Unsplash
