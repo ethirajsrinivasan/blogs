@@ -7,7 +7,7 @@ Life is a great teacher. Being in my early thirties, life has taught me valuable
 <h6 align="center">&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2022;</h6>
 <br>
 
-### 1. Insurance
+## 1. Insurance
 #### Term Insurance 
 The first and topmost priority of any person, once they start earning, should be to take term insurance. Term insurance is the financial security that we leave behind for our family and it tops the list of priorities. Earlier the term insurance is taken lesser is the premium amount to be paid. Decide on the insurance amount as per your needs and financial status. Never mix term insurance with other kinds of insurance like investment cum term insurance. Always remember term insurance is not an investment it is financial security.
 
@@ -25,7 +25,7 @@ Over the years I learned about top-up health insurance policy which acts as a co
 We don't often claim for top-up health insurance as it has a higher lower limit. Hence for the fact, top-up health insurance is much more affordable. Work out the combination of lower and upper limits of the basic and top-up health insurance policy as per your needs. Even if a basic health insurance policy is not affordable take a top-up health insurance policy it will definitely help in critical times.
 
 
-### 2. Health
+## 2. Health
 > <i>"The first wealth is health" by Ralph Waldo Emerson</i>
 
 Health is critical to enjoying our life. Being health-conscious for me was on and off. Few months, I would be so dedicated, and in other months I would be ignorant. My body could feel the difference between when I am dedicated and when I am not. So I have managed to put in a constant effort over the years.
@@ -50,7 +50,7 @@ All these pay benefit only if we have proper sleep. Sleeping for 8 hours is very
 ![Get Good Sleep](https://user-images.githubusercontent.com/7569031/236862913-e4e620f3-9759-4e7f-abb8-d6d1b71e242d.png)
 > Photo by Brett Jordan on Unsplash
 
-### 3. Investing
+## 3. Investing
 We all love to be wealthy but that is not possible without investing. So start investing at an early stage. The power of compounding is immense when we start investing at an early stage.
 
 ![Compunding By Age](https://user-images.githubusercontent.com/7569031/236863422-d397d39f-f7e2-42da-b48f-2e5c84d12e63.png)
@@ -58,14 +58,14 @@ We all love to be wealthy but that is not possible without investing. So start i
 I follow a simple formula for my investing journey. From my income, I first pay the term insurance and health insurance premiums and then invest a portion of the remaining income and finally, use the remaining amount for the expenditure. I try to automate my investments to a certain level because it brings in disciplined constant investment. I invest in a diverse set of portfolios and use apps like [moomoo](https://j.moomoo.com/00xAOU) for equity, and [coinhako](https://www.coinhako.com/affiliations/sign_up/285810_54724814) for cryptocurrency. 
 ><b><i> Income - Insurance(Term+health) - Savings - Expenditure</i></b>
 
-### 4. Digital Presence
+## 4. Digital Presence
 World is now a huge competition in whatever field we take. Thus we need to be ahead of others. Having a digital presence in your field gives you an advantage over others and creates more visibility for us. It is also a great opportunity to showcase our skills. For a UI/UX professional it could be an account in Behance. For a photographer, it could be a professional Instagram profile. For a software professional like me it could be a [personal website](https://ethigeek.com). Create a digital presence and shine ahead in your field.
 
 Check out my personal website:
 
 https://ethigeek.com
 
-### 5. Growth skills 
+## 5. Growth skills 
 Apart from the professional skills that we develop over the years developing skills other than work is also essential for our lifestyle. It could be cooking, photography, or dancing. I developed my reading skills and enjoyed reading some of great books like
 * [Peak: Secrets from the New Science of Expertise](https://amzn.to/3nV4pck)
 * [The Power of Your Subconscious Mind](https://amzn.to/3zDSbHx)
@@ -85,7 +85,7 @@ Developing non-professional skills can help us in a number of ways.
 * Reducing Stress: Engaging in activities that we enjoy helps us to reduce stress and provides a better work-life balance
 * Developing transferable skills: The new skills that we learn outside of work can also helps in our professional works
 
-### 6. Multiple streams of income 
+## 6. Multiple streams of income 
 Relying on a single source of income can be very risky as unexpected events can happen. Having multiple sources of income can help diversify your income sources, reducing overall risk. It provides financial stability and security even during macroeconomic conditions. It can also help you to pursue your passions and interests. There are many multiple sources of income that you can try like 
 * Rental income: investment in a rental property.
 * Freelancing: offer your skills and expertise as a freelancer for writing, graphic design, programming, or consulting.
