@@ -1,10 +1,6 @@
 ## 6 Valuable Life Lessons I Learned in My Early 30s 
 #### Insights and Advice on Finance, Health, Investing, Digital Presence, and Growth Skills 
 
-![group of teenagers](https://user-images.githubusercontent.com/7569031/236854361-6428260e-cc2e-445b-862e-c15d765311a2.png)
-> Photo by Helena Lopes on Unsplash
-
-
 Life is a great teacher. Being in my early thirties, life has taught me valuable lessons that I should have been aware of in my young adult age. Nevertheless, I would like to share these valuable lessons with the current generation for their own future. 
 
 <br>
