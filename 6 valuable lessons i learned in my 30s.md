@@ -75,7 +75,9 @@ Apart from the professional skills that we develop over the years developing ski
 Recently I also cultivated my writing skills and published some blogs at https://ethigeek.com/blogs.html
 
 >https://ethigeek.com/blogs/can-ai-provide-any-new-job-opportunities.html
+
 >https://ethigeek.com/blogs/custom-actuator-prometheus-metric-for-better-spring-boot-application-monitoring.html
+
 >https://ethigeek.com/blogs/jdk-variants-from-sun-microsystems-to-oracle-and-beyond.html
 
 Developing non-professional skills can help us in a number of ways.
