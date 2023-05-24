@@ -32,7 +32,7 @@ Health is critical to enjoying our life. Being health-conscious for me was on an
 
 Check out my article on how I transformed myself in the year 2022
 
->https://medium.com/@ethi/looking-back-at-2022-38f95c52ba4a
+> https://medium.com/@ethi/looking-back-at-2022-38f95c52ba4a
 
 It was so surprising for me how I transformed myself from a person who hates vegetables to a person who loves vegetables. When I moved to a new country and was alone, I realized the importance of having healthy food and was much more aware of my health.
 
