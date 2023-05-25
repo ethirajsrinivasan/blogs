@@ -11,8 +11,8 @@ Life is a great teacher. Being in my early thirties, life has taught me valuable
 #### Term Insurance 
 The first and topmost priority of any person, once they start earning, should be to take term insurance. Term insurance is the financial security that we leave behind for our family and it tops the list of priorities. Earlier the term insurance is taken lesser is the premium amount to be paid. Decide on the insurance amount as per your needs and financial status. Never mix term insurance with other kinds of insurance like investment cum term insurance. Always remember term insurance is not an investment it is financial security.
 
-![Term Insurance Premium By Age](https://user-images.githubusercontent.com/7569031/236856268-4209dbce-909f-4b05-8fa6-c94350ec243e.png)
-> Term Insurance Premium By Age. Source: https://shorturl.at/lATZ2
+![Term Insurance Premium By Age](https://github.com/ethirajsrinivasan/blogs/assets/7569031/661f83b8-29f0-4bd2-b0dc-a176246fe03a)
+> Term Insurance Premium By Age.
 
 #### Health Insurance
 After securing the family the next objective is to take care of the health of the family. Coming from a middle-class family, I was reluctant to take health insurance because it was expensive for the income that I earned, and if there were no claims in that financial year it was money that never comes back. But I didn't take the risk and took the basic health insurance policy. Believe me, it helped me at many critical times and I embraced myself for taking it.
@@ -53,7 +53,8 @@ All these pay benefit only if we have proper sleep. Sleeping for 8 hours is very
 ## 3. Investing
 We all love to be wealthy but that is not possible without investing. So start investing at an early stage. The power of compounding is immense when we start investing at an early stage.
 
-![Compunding By Age](https://user-images.githubusercontent.com/7569031/236863422-d397d39f-f7e2-42da-b48f-2e5c84d12e63.png)
+![Compunding By Age](https://github.com/ethirajsrinivasan/blogs/assets/7569031/b77d796b-4822-42ba-8a2f-975f7394cffe)
+
 
 I follow a simple formula for my investing journey. From my income, I first pay the term insurance and health insurance premiums and then invest a portion of the remaining income and finally, use the remaining amount for the expenditure. I try to automate my investments to a certain level because it brings in disciplined constant investment. I invest in a diverse set of portfolios and use apps like [moomoo](https://j.moomoo.com/00xAOU) for equity, and [coinhako](https://www.coinhako.com/affiliations/sign_up/285810_54724814) for cryptocurrency. 
 ><b><i> Income - Insurance(Term+health) - Savings - Expenditure</i></b>
