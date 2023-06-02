@@ -5,7 +5,7 @@ In [my previous article](https://medium.com/r/?url=https%3A%2F%2Fbootcamp.uxdesi
 
 > https://bootcamp.uxdesign.cc/fault-tolerance-design-patterns-in-distributed-systems-49853ad237b4
 
-Creational patterns are a subset of design patterns that describes the object creation mechanisms. It helps to create objects in a flexible and efficient way and provides loose coupling between classes. These design patterns provide abstraction in the object creation process, hiding the specific details during object instantiation.
+Creational patterns are a subset of design patterns that describes the object creation mechanisms. It helps to create objects flexibly and efficiently and provides loose coupling between classes. These design patterns provide abstraction in the object creation process, hiding the specific details during object instantiation.
 
 Creational patterns are useful when the object creation is complex, has multiple steps, or requires creating different types of objects based on certain constraints. Creational Patterns aim to make the code maintainable, easier, and extensible.
 
@@ -16,9 +16,9 @@ Some of the creational patterns are
 * Abstract factory pattern
 * Prototype pattern
 
-Each creational pattern has its own requirement and scenarios. We will look at the Factory method pattern and Builder pattern in detail.
+Each creational pattern has its requirement and scenarios. We will look at the Factory method pattern and Builder pattern in detail.
 
-### Factory Method Pattern
+### Factory Method Pattern
 
 Factory Method Pattern provides an interface for object creation and allows subclasses to alter the object instantiated. The object creation logic is encapsulated in a separate method called the factory method.
 
@@ -106,12 +106,12 @@ Thus a Factory Method Pattern helps to instantiate different fruits with the fle
 
 ### Builder Pattern
 
-The builder pattern helps to build a complex object step by step. The construction and representation of the object is separated using this pattern and allows to the same process to create different object representations.
+The builder pattern helps to build a complex object step by step. The construction and representation of the object are separated using this pattern and allow the same process to create different object representations.
 
 ![Car factory](https://images.unsplash.com/photo-1631475012097-d074e8a92597?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
 > Photo by Baron on Unsplash
 
-It helps in readabity and maintenance of the code by providing a clear way to get the required properties of the object during instantiation.
+It helps in the readability and maintenance of the code by providing a clear way to get the required properties of the object during instantiation.
 
 ```java
 // Car class
@@ -210,17 +210,17 @@ public class Main {
     }
 }
 ```
-In the example above the `Car.Builder` class acts as the builder for the car construction. The car has different properties like color, engine, transmission, number of wheels and sunroof.
+In the example above the `Car.Builder` class acts as the builder for the car construction. The car has different properties like color, engine, transmission, number of wheels, and sunroof.
 
-The `Car` class has a private constructor with the builder object as it parameter. It then constructs the car based on the builder values.
+The `Car` class has a private constructor with the builder object as its parameter. It then constructs the car based on the builder values.
 
-The builder class providers the setter methods for the desired car properties and these methods return the builder object to support method chaining.
+The builder class provides the setter methods for the desired car properties and these methods return the builder object to support method chaining.
 
-In the `main()` method, an instance of the car is created with the desired properties using the builder and `build()` method is called to get the constructed car object.
+In the `main()` method, an instance of the car is created with the desired properties using the builder, and `build()` method is called to get the constructed car object.
 
 This example shows how builder pattern can be used to construct a object with the desired properties using a flexible and readable manner. It allows the client code to configure the desired properties while ignoring other properties. 
 
-Hope the above explanations and implementation examples gives you a clarity on the creational designer pattern. Do note that each creational design pattern has its own set of requirements and constraints. Happy creating objects !!!
+Hope the above explanations and implementation examples give you clarity on the creational designer pattern. Do note that each creational design pattern has its own set of requirements and constraints. Happy creating objects !!!
 
 
 
