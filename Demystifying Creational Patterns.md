@@ -16,7 +16,7 @@ Some of the creational patterns are
 * Abstract factory pattern
 * Prototype pattern
 
-Each creational pattern has its own requirement and scenarios. We will look at the Factory method pattern and Builder pattern in detail
+Each creational pattern has its own requirement and scenarios. We will look at the Factory method pattern and Builder pattern in detail.
 
 ### Factory Method Pattern
 
@@ -102,7 +102,7 @@ The `Game` class uses the fruit factory to create and collect fruits. The `colle
 
 In the `main()` method, we create an instance of the Game class and call the `collectFruit()` method. The FruitFactory creates the fruits and displays the fruit.
 
-Thus a Factory Method Pattern helps to instantiate different fruits with the flexibility to add new fruits to the game without modifying the Game class ( client code)
+Thus a Factory Method Pattern helps to instantiate different fruits with the flexibility to add new fruits to the game without modifying the Game class ( client code).
 
 ### Builder Pattern
 
@@ -214,7 +214,7 @@ In the example above the `Car.Builder` class acts as the builder for the car con
 
 The `Car` class has a private constructor with the builder object as it parameter. It then constructs the car based on the builder values.
 
-The builder class providers the setter methods for the desired car properties and these methods return the builder object to support method chaining
+The builder class providers the setter methods for the desired car properties and these methods return the builder object to support method chaining.
 
 In the `main()` method, an instance of the car is created with the desired properties using the builder and `build()` method is called to get the constructed car object.
 
