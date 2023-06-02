@@ -20,7 +20,7 @@ Each creational pattern has its own requirement and scenarios. We will look at t
 
 ### Factory Method Pattern
 
-Factory Method Pattern provides an interface for object creation and allows subclasses to decide which class to instantiate. The object creation logic is encapsulated in a separate method called the factory method implemented inside each of the subclasses.
+Factory Method Pattern provides an interface for object creation and allows subclasses to alter the object instantiated. The object creation logic is encapsulated in a separate method called the factory method.
 
 ![Factory](https://images.unsplash.com/photo-1578776349090-de61da00ff1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80)
 > Photo by Alex Simpson on Unsplash
