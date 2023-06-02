@@ -212,8 +212,10 @@ public class Main {
 ```
 In the example above the `Car.Builder` class acts as the builder for the car construction. The car has different properties like color, engine, transmission, number of wheels and sunroof.
 
-The `Car` class has a private constructor with the builder object as it parameter. It then constructs the car based on the builder values
+The `Car` class has a private constructor with the builder object as it parameter. It then constructs the car based on the builder values.
+
 The builder class providers the setter methods for the desired car properties and these methods return the builder object to support method chaining
+
 In the `main()` method, an instance of the car is created with the desired properties using the builder and `build()` method is called to get the constructed car object.
 
 This example shows how builder pattern can be used to construct a object with the desired properties using a flexible and readable manner. It allows the client code to configure the desired properties while ignoring other properties. 
