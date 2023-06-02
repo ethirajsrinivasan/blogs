@@ -3,7 +3,7 @@
 
 In [my previous article](https://medium.com/r/?url=https%3A%2F%2Fbootcamp.uxdesign.cc%2Ffault-tolerance-design-patterns-in-distributed-systems-49853ad237b4), I spoke about fault tolerance design patterns in distributed systems. In this article, I will talk about the design patterns used for object creation.
 
-> https://medium.com/r/?url=https%3A%2F%2Fbootcamp.uxdesign.cc%2Ffault-tolerance-design-patterns-in-distributed-systems-49853ad237b4
+> https://bootcamp.uxdesign.cc/fault-tolerance-design-patterns-in-distributed-systems-49853ad237b4
 
 Creational patterns are a subset of design patterns that describes the object creation mechanisms. It helps to create objects in a flexible and efficient way and provides loose coupling between classes. These design patterns provide abstraction in the object creation process, hiding the specific details during object instantiation.
 
@@ -109,6 +109,7 @@ Thus a Factory Method Pattern helps to instantiate different fruits with the fle
 The builder pattern helps to build a complex object step by step. The construction and representation of the object is separated using this pattern and allows to the same process to create different object representations.
 
 ![Car factory](https://images.unsplash.com/photo-1631475012097-d074e8a92597?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
+> Photo by Baron on Unsplash
 
 It helps in readabity and maintenance of the code by providing a clear way to get the required properties of the object during instantiation.
 
