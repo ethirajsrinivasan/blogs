@@ -4,7 +4,7 @@ Encryption, encoding, serialisation, and hashing are all techniques used to tran
 ## Encryption
 Encryption is the process of converting plain text into cipher-text using a secret key or algorithm. Encryption is used to protect sensitive information, such as passwords or credit card numbers, by making it unreadable to unauthorised parties. The cipher-text can only be decrypted using the corresponding key or algorithm, which is kept secret. Encryption provides confidentiality, but not integrity or authenticity.
 
-![image](https://user-images.githubusercontent.com/7569031/227779032-cc53a85b-fc46-45a8-99ea-7a8c6cd0642a.png)
+![Encryption](https://user-images.githubusercontent.com/7569031/227779032-cc53a85b-fc46-45a8-99ea-7a8c6cd0642a.png)
 > Photo by Towfiqu barbhuiya on Unsplash
 
 Suppose you want to send a confidential email to a colleague. You could encrypt the email using a symmetric encryption algorithm like AES and a secret key, so that only your colleague with the corresponding key can read the email. If someone intercepts the email, they won’t be able to read its contents without the key.
@@ -78,7 +78,7 @@ This script uses the built-in json module to serialise a list of dictionaries in
 
 ## Hashing
 
-![image](https://user-images.githubusercontent.com/7569031/227778986-db8cb953-a3c2-46af-a4e4-593b3d22401e.png)
+![Hashing](https://user-images.githubusercontent.com/7569031/227778986-db8cb953-a3c2-46af-a4e4-593b3d22401e.png)
 > Photo by Markus Spiske on Unsplash
 
 Hashing is the process of converting data of arbitrary size into a fixed-size hash value, typically using a one-way cryptographic hash function. Hashing is used to verify the integrity of data by ensuring that any changes to the data result in a different hash value. Hashing is also used for password storage, as the hash value of a password can be stored instead of the password itself. However, hashing is not reversible, meaning that the original data cannot be reconstructed from the hash value.

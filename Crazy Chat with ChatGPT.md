@@ -4,7 +4,7 @@ Recently I was overwhelmed by the responses of chatGPT and thought why not share
 **I ask**: Who is the strongest avenger ?
 
 
-![image](https://user-images.githubusercontent.com/7569031/227776657-379e09ee-b5f4-4a5f-85b5-2238722d1d87.png)
+![Iron Man vs Spider Man](https://user-images.githubusercontent.com/7569031/227776657-379e09ee-b5f4-4a5f-85b5-2238722d1d87.png)
 > Photo by Mulyadi on Unsplash
 
 **ChatGPT ans**: The question of who is the strongest Avenger is a subject of much debate among Marvel fans. In the Marvel Cinematic Universe (MCU), some of the most powerful Avengers include:
@@ -19,7 +19,7 @@ Ultimately, the answer to who is the strongest Avenger depends on how you define
 
 **I ask**: Will India become a super power in 2030?
 
-![image](https://user-images.githubusercontent.com/7569031/227776720-3788fac0-db4b-4072-bc7a-2603c34a3d0d.png)
+![Indian Flag](https://user-images.githubusercontent.com/7569031/227776720-3788fac0-db4b-4072-bc7a-2603c34a3d0d.png)
 > Photo by Naveed Ahmed on Unsplash
 
 **ChatGPT ans**: It is difficult to predict with certainty whether India will become a superpower by 2030. However, India is one of the fastest-growing economies in the world and has made significant progress in various fields such as technology, space exploration, and healthcare.
@@ -32,7 +32,7 @@ Overall, while India has the potential to become a superpower by 2030, whether o
 
 **I ask**: Can you explain cryptocurrency mining to a 5 year old ?
 
-![image](https://user-images.githubusercontent.com/7569031/227776757-704bbff1-f514-469b-b7ac-73b2faacb326.png)
+![CryptoCurrency](https://user-images.githubusercontent.com/7569031/227776757-704bbff1-f514-469b-b7ac-73b2faacb326.png)
 > Photo by Vadim Artyukhin on Unsplash
 
 **ChatGPT ans**: Sure, I’d be happy to explain cryptocurrency mining to a 5-year-old!
@@ -47,7 +47,7 @@ So that’s a basic idea of cryptocurrency mining — it’s like trying a bunch
 
 **I ask**: What would have happened to the world if Industrial Revolution didn’t happen ?
 
-![image](https://user-images.githubusercontent.com/7569031/227776793-d3e0d76d-c520-40e2-bbea-b44b4fe9dd1e.png)
+![Industry](https://user-images.githubusercontent.com/7569031/227776793-d3e0d76d-c520-40e2-bbea-b44b4fe9dd1e.png)
 > Photo by Robin Sommer on Unsplash
 
 **ChatGPT ans**: The Industrial Revolution had a profound impact on the world, transforming economies, societies, and even the environment. If the Industrial Revolution had not happened, the world would be a very different place today.
@@ -62,7 +62,7 @@ Overall, it is difficult to say exactly what the world would be like today if th
 
 **I ask**: Is Area 51 for real ?
 
-![image](https://user-images.githubusercontent.com/7569031/227776784-870479d6-eb2d-4595-af90-6f16145bae7c.png)
+![Alien](https://user-images.githubusercontent.com/7569031/227776784-870479d6-eb2d-4595-af90-6f16145bae7c.png)
 > Photo by Danie Franco on Unsplash
 
 **ChatGPT ans**: Yes, Area 51 is a real place located in the Nevada desert in the United States. It is a highly classified United States Air Force facility that has been the subject of much speculation and conspiracy theories over the years.

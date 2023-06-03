@@ -1,7 +1,7 @@
 ## The world of Rate Limit Algorithms
 Rate limit algorithm is a mechanism used to control the rate of requests or messages being sent or received by a system or service. It is used to prevent overloading a system or service with too many requests or messages, which can cause system failures or degraded performance. Rate limiting allows a system or service to handle requests or messages in a controlled manner, ensuring that resources are used efficiently and effectively.
 
-![image](https://user-images.githubusercontent.com/7569031/227982449-40cba494-228e-4ebb-a2f2-3dfdf478818f.png)
+![Rate Limiter](https://user-images.githubusercontent.com/7569031/227982449-40cba494-228e-4ebb-a2f2-3dfdf478818f.png)
 > A batch of requests from client to server is limited by the rate limiter
 
 ## Use Cases

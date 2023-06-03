@@ -41,7 +41,7 @@ It's important to note that while Oracle JDK is no longer free for commercial us
 * **Zulu JDK**
 * **GraalVM**
 
-![image](https://user-images.githubusercontent.com/7569031/232730798-629e6645-f6e4-4f38-8817-0424e86ef4e4.png)
+![JDK Versions](https://user-images.githubusercontent.com/7569031/232730798-629e6645-f6e4-4f38-8817-0424e86ef4e4.png)
 
 
 **Oracle JDK** 
