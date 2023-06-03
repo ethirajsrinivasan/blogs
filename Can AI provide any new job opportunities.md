@@ -1,7 +1,7 @@
 ## Can AI provide any new job opportunities?
 Quite a few days we are talking about how AI is revolutionising the world and how it can optimise and automate our day to day job. Few even talk about how AI can replace job opportunities like Graphic Designers, Content Creators , Customer Service Agents etc. But today I am going to talk about a job opportunity provided by AI called the prompt engineering.
 
-![image](https://user-images.githubusercontent.com/7569031/228196121-af16f5bd-b3e3-4141-8ea8-4e0fe9ae73c2.png)
+![AI](https://user-images.githubusercontent.com/7569031/228196121-af16f5bd-b3e3-4141-8ea8-4e0fe9ae73c2.png)
 >Photo by Steve Johnson on Unsplash
 
 Prompt engineering is a technique used in language model to create specific inputs or prompts to get desired output from it. The objective of prompt engineering is to provide the models with the prompt that can help in the generation of text and improve its performance

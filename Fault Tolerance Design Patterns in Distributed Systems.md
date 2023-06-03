@@ -14,7 +14,7 @@ Let us look at some examples of fault tolerance design patterns. I have chosen C
 ## Circuit Breaker Pattern:
 The circuit breaker pattern is a software design pattern that is used to prevent cascading failures in a distributed system. It is named after the circuit breaker in an electrical circuit, which is designed to prevent an electrical overload from causing damage to the system.
 
-![image](https://user-images.githubusercontent.com/7569031/227788541-b0e2ac4c-5ccf-4526-957e-1ac397b884c4.png)
+![Circuit Breaker](https://user-images.githubusercontent.com/7569031/227788541-b0e2ac4c-5ccf-4526-957e-1ac397b884c4.png)
 
 In the context of software architecture, the circuit breaker pattern involves wrapping calls to a remote service or API in a circuit breaker object. This object monitors the number of failures that occur when calling the remote service, and if the number of failures exceeds a certain threshold, the circuit breaker trips and subsequent calls to the remote service are redirected to a fallback method or cached result instead.
 
@@ -29,7 +29,7 @@ Here is a basic structure of the circuit breaker pattern:
 5. If the failure rate continues to exceed the threshold while in the “open” state, the circuit breaker may move to a “half-open” state, allowing a limited number of requests to pass through to test if the underlying system is now functioning correctly.
 6. If the test requests succeed, the circuit breaker moves back to the “closed” state. If they fail, it moves back to the “open” state.
 
-![image](https://user-images.githubusercontent.com/7569031/227788604-d3c8e520-00fa-459e-91a6-6d126428db95.png)
+![State Transition](https://user-images.githubusercontent.com/7569031/227788604-d3c8e520-00fa-459e-91a6-6d126428db95.png)
 > State Transition between open and closed state in a circuit breaker pattern
 
 Here are some examples of how the circuit breaker design pattern can be implemented in Python and Ruby:
@@ -165,12 +165,12 @@ end
 ## Bulkhead Design Pattern
 Bulkhead design pattern is a software design pattern that is used to limit the impact of a failure in one part of a system on other parts of the system. This pattern is named after the bulkheads used in ships that divide the ship into watertight compartments, so that if one compartment is breached, the others remain intact.
 
-![image](https://user-images.githubusercontent.com/7569031/227788993-91e3193b-2a5d-450b-8fcc-4aa2e7f4f30d.png)
+![Bulkhead Design](https://user-images.githubusercontent.com/7569031/227788993-91e3193b-2a5d-450b-8fcc-4aa2e7f4f30d.png)
 > A Ship split into multiple heads so that the damage is isolated on a hit
 
 In the context of software architecture, bulkhead pattern involves dividing an application into multiple partitions or compartments, where each partition contains a subset of the system’s functionality. Each partition is designed to be independent of the others, with its own set of resources and threads, so that if one partition fails, it does not affect the other partitions.
 
-![image](https://user-images.githubusercontent.com/7569031/227789109-2c8c7575-b91a-4687-967c-725597e94183.png)
+![Normal Flow vs Rectified Flow](https://user-images.githubusercontent.com/7569031/227789109-2c8c7575-b91a-4687-967c-725597e94183.png)
 > Bulk Head Design Pattern
 
 This pattern is particularly useful in large-scale distributed systems where different parts of the system may be prone to failure, as it allows failures to be contained within a single partition rather than propagating throughout the entire system.

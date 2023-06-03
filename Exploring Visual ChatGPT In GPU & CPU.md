@@ -53,7 +53,7 @@ export OPENAI_API_KEY={Your_Private_Openai_Key}
 ```
 Navigate to https://platform.openai.com/docs/quickstart/build-your-application and create your secret key if you have not created before.
 
-![image](https://user-images.githubusercontent.com/7569031/228010198-c22c3e22-eab1-4430-a2d9-4a583cc1a6fe.png)
+![API Key](https://user-images.githubusercontent.com/7569031/228010198-c22c3e22-eab1-4430-a2d9-4a583cc1a6fe.png)
 > Secret Key for Open AI API
 
 ### Step 6: Create a folder to save your images
@@ -69,28 +69,28 @@ python visual_chatgpt.py
 Please go through steps below to run Visual ChatGPT in CPU.
 
 ### Step 8: Open http://0.0.0.0:7860/ in your browser. Voila !!!
-![image](https://user-images.githubusercontent.com/7569031/228010619-bb32355b-44da-4a44-86d7-978679005bc0.png)
+![Visual ChatGPT](https://user-images.githubusercontent.com/7569031/228010619-bb32355b-44da-4a44-86d7-978679005bc0.png)
 > Visual ChatGPT in local browser
 
 In order to save some memory you can select only the tools that you wish to use it. You can do so by modifying self.tools as follows:
 
-![image](https://user-images.githubusercontent.com/7569031/228010914-6e7df6a6-ff0e-401e-85d7-19fccec41d51.png)
+![Tools](https://user-images.githubusercontent.com/7569031/228010914-6e7df6a6-ff0e-401e-85d7-19fccec41d51.png)
 > Modification of self.tools to save some memory
 
 Modify the following in visual_chatgpt.py to run in CPU:
 
 1. Change the device to CPU.
-![image](https://user-images.githubusercontent.com/7569031/228011293-364e5c7d-82fe-4929-9871-d234b925dca2.png)
+![CPU device](https://user-images.githubusercontent.com/7569031/228011293-364e5c7d-82fe-4929-9871-d234b925dca2.png)
 > Modify the device to CPU to run ML Models in CPU
 
 2. Not all Models are cpu supported so I have ignored few models.
 
 3. “torch_dtype=torch.float16” is not supported on CPU so we have to remove it at class Pix2Pix and class T2I init methods when declaring the pipe.
 
-![image](https://user-images.githubusercontent.com/7569031/228011463-418b9bf0-f92f-4936-90ac-06732b8fd2ad.png)
+![Torch Dtype](https://user-images.githubusercontent.com/7569031/228011463-418b9bf0-f92f-4936-90ac-06732b8fd2ad.png)
 > Ignoring the torch dtype on Pix2Pix
 
-![image](https://user-images.githubusercontent.com/7569031/228011534-4cbf8bdf-3d42-409e-a98d-e4575acb6f8d.png)
+![Torch Dtype](https://user-images.githubusercontent.com/7569031/228011534-4cbf8bdf-3d42-409e-a98d-e4575acb6f8d.png)
 > Ignoring the torch dtype on T2I
 
 Now you are ready to run visual chatGPT in CPU mode. Perform Step 7 and Step 8 mentioned above.

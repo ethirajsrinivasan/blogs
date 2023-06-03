@@ -2,7 +2,7 @@
 
 A very simple and easy way to generate kubernetes deployment manifests for a rails application is through the Helm chart. Helm is simply a package manager for Kubernetes. Helm Chart is a collection of kubernetes resource files like deployments, services and ingress rules also the values that is used to configure these resources.
 
-![image](https://user-images.githubusercontent.com/7569031/229564025-15d0e5d4-2d15-406e-ba81-4867a917751f.png)
+![Helm Package Manager](https://user-images.githubusercontent.com/7569031/229564025-15d0e5d4-2d15-406e-ba81-4867a917751f.png)
 
 Follow the steps below to generate the deploy manifest files:
 1. Install Helm on your local 
