@@ -13,7 +13,7 @@ In this article, we will look at the following two design patterns in detail
 * Prototype pattern
 
 ### Singleton Pattern
-Singleton pattern are used to make sure that only one instance of a class is created and it provides global access to it. It uses a private constructor to prevent direct object instantiation and the static method provides access to the single instance.
+Singleton pattern are used to make sure that only one instance of a class is created and provides global access to it. It uses a private constructor to prevent direct object instantiation and the static method provides access to the single instance.
 
 ![Same User behind every door](https://github.com/ethirajsrinivasan/blogs/assets/7569031/0e2a3c35-4501-4455-9cf2-063e509a90e0)
 > Singleton Class (Same User behind every door)
