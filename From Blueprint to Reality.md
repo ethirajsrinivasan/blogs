@@ -73,7 +73,7 @@ Thus singleton pattern is used when one instance of an object needs to be create
 
 Prototype pattern allows the creation of objects by cloning existing instances thereby reducing the need to create new instances from scratch. It has a prototype object and uses that object to create new objects by cloning. It is used when new object creation is expensive and complex.
 
-![Same type of scooter in production line](https://images.unsplash.com/photo-1599486858190-a56a25d4616b)
+![Same type of scooter in production line](https://images.unsplash.com/photo-1599486858190-a56a25d4616b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80)
 > Photo by Kumpan Electric on Unsplash
 
 Let's consider a scenario where we have a design application that can create and customize shapes. Prototype pattern is used to clone the existing shape objects and modify them as per requirement instead of creating each shape object from scratch.
