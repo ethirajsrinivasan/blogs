@@ -1,4 +1,4 @@
-## How a Simple Investing Hack Can Turn Pennies into Dollars
+## How a Simple Investing Hack Can Turn Pennies into Dollars
 ### Dollar Cost Averaging: Riding the Waves of Consistency
 
 In the world of financial stock markets, we may have encountered many get-rich overnight strategies that are vulnerable. There is rarely any strategy that can get us rich in a short period by timing the market. If you are looking for a solid and stress-free investment strategy then let us explore "Dollar Cost Averaging". In this story let us get through the pros and cons of the Dollar Cost Averaging Investment Strategy.
