@@ -5,7 +5,7 @@ In the world of financial stock markets, we may have encountered many get-rich o
 
 #### Dollar Cost Averaging
 
-![Dollar Cost Averaging](https://github.com/ethirajsrinivasan/blogs/assets/7569031/4d049286-2e03-4cf8-8d3a-d7d978fc2520)
+![Dollar Cost Averaging](https://github.com/ethirajsrinivasan/blogs/assets/7569031/56ed5a07-a6dc-4e10-bac9-691b658c3414)
 > Dollar Cost Averaging (Image By Author)
 
 Dollar Cost Averaging (DCA) is an investment strategy where we invest a fixed amount of money at a regular period into a particular investment regardless of its price. Through this investment strategy, we tend to buy more units at a lower asset price and fewer units at a higher asset price thereby smoothening/averaging the overall cost of the assets and increasing the number of units of the assets. The underlying motive is to focus on consistency rather than timing the market
