@@ -19,7 +19,6 @@ Madakaripura waterfall is the highest on Java Island and the second highest in I
 Walking through the stream and rocks we reached the main waterfalls. The waterfalls were so majestic. I witnessed the moment. A permanent memory made in my mind. I needed no smart device to capture it. I could revisit those moments even when I close my eyes now such was the view. We were surrounded by waterfalls on every side. It looked like we were in a circular bottle. When I looked at the water from down to the top I felt a divine connection and thanked nature for such a gift.
 
 > https://youtu.be/hchtg-IPiJY
-
 > The Madakaripura Waterfalls (Video By Author)
 
 ### The Journey awaits
