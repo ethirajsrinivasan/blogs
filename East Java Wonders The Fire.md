@@ -33,8 +33,6 @@ Hiking down Mount Penanjakan we reached the Sea of Sand. It is a desert of black
 
 > https://www.youtube.com/shorts/LOWsc6gO1zs
 
-> Golden Touch on the Volcanic Horizon 🌋🌋🌋
-
 #### The Journey Continues
 With so much satisfaction I descended the mountain and reached our hotel. My journey does not stop here and an exciting next day was waiting for me. Stay tuned for the last day of my journey.
 
