@@ -18,7 +18,7 @@ Since we chose home stay, took a private tour, chose to buy all the entrance tic
 
 > https://tourmountbromo.com/mountbromoijentour/
 
-The Choice of Money
+#### The Choice of Money
 
 ![Money](https://images.unsplash.com/photo-1580519542036-c47de6196ba5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80)
 > Photo by Jason Leung on Unsplash
@@ -35,8 +35,7 @@ The nearest airport to Mount Bromo and Mount Ijen is the Juanma international ai
 ![Airlines](https://images.unsplash.com/photo-1569629743817-70d8db6c323b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1498&q=80)
 > Photo by John McArthur on Unsplash
 
-#### The choice of food
-If you are a foodie and would like to try out new dishes then Indonesia is a perfect place. If you have some restrictions with food or are allergic to certain food items then you can still manage with Western dishes. French fries, toast, omelets, and fresh juices are available everywhere. Buns, biscuits, and bakes are also available at mart  shops and their flavors are almost the same. In fact, the chocolate flavors tasted so good than in other countries. The portion of the food was filling so you don't have to buy another dish to fill your stomach. As per the choice of restaurants do visit restaurants which are crowded and avoid less crowded places. Please do prefer to buy your eatables at mart shops like Indomaret because the prices are fixed and you can use your wise cards. You might pay double or triple the cost if you buy at local shops.
+:If you are a foodie and would like to try out new dishes then Indonesia is a perfect place. If you have some restrictions with food or are allergic to certain food items then you can still manage with Western dishes. French fries, toast, omelets, and fresh juices are available everywhere. Buns, biscuits, and bakes are also available at mart  shops and their flavors are almost the same. In fact, the chocolate flavors tasted so good than in other countries. The portion of the food was filling so you don't have to buy another dish to fill your stomach. As per the choice of restaurants do visit restaurants which are crowded and avoid less crowded places. Please do prefer to buy your eatables at mart shops like Indomaret because the prices are fixed and you can use your wise cards. You might pay double or triple the cost if you buy at local shops.
 
 ![Nasi Goreng](https://images.unsplash.com/photo-1680674774705-90b4904b3a7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
 > Photo by R Eris Prayatama on Unsplash
