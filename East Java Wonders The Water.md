@@ -23,3 +23,6 @@ Walking through the stream and rocks we reached the main waterfalls. The waterfa
 
 ### The Journey awaits
 After spending a few hours at the waterfalls we returned back to our car. I was so excited about the journey ahead as my first day was such a great experience for me. Stay tuned for my update on my journey to the volcano.
+
+> https://ethigeek.com/blogs/a-journey-through-fire-and-water-immersed-in-java-s-nature-wonders-the-fire.html
+
