@@ -28,7 +28,7 @@ With so much excitement we woke up early in the morning at 3 AM. We took a Jeep 
 
 > Tengger Caldera: Mount Bromo (2,329 m), Mount Batok (2,470 m), Mount Kursi (2,581 m), Mount Watangan (2,661 m), and Mount Widodaren (2,650 m)
 
-#### The Mount Bromo
+#### The Mount Bromo
 Hiking down Mount Penanjakan we reached the Sea of Sand. It is a desert of black sand between Mount Penanjakan and the active Bromo volcano. I reached the foot of Mount Bromo. Yes, I have stepped foot on an active volcano and my heart felt light. We began to ascend to the crater rim. As we reached halfway to the top I could smell the sulfur in the air and the volcano pushing the smoke to the sky. On reaching the top I saw the eye of the crater. The view was absolutely breathtaking. I took a few minutes to watch the crater and absorb the energy of the volcano that had captived me for so long.
 
 > https://www.youtube.com/shorts/LOWsc6gO1zs
@@ -36,7 +36,4 @@ Hiking down Mount Penanjakan we reached the Sea of Sand. It is a desert of black
 #### The Journey Continues
 With so much satisfaction I descended the mountain and reached our hotel. My journey does not stop here and an exciting next day was waiting for me. Stay tuned for the last day of my journey.
 
-
-
-
-
+> https://ethigeek.com/blogs/unexpected-turn-the-blue-fire-of-mount-ijen.html

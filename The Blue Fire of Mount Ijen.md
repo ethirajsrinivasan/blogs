@@ -22,14 +22,12 @@ Walking a few minutes ahead we could see that mountain slopes filled with volcan
 ![Mount Ijen](https://images.unsplash.com/photo-1691938938357-77dd90a47011?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
 > Mount Ijen (Photo By Author)
 
-#### End of the Trip
+#### End of the Trip
 My three days adventure trip in East Java has come to an end. From enjoying the Madakaripura waterfall to watching the sunrise at Mount Bromo Active Volcano and Turquoise-colored Acidic Lake at Mount Ijen it was a journey of a lifetime. I am greatly thankful to Mother Nature for making this a possibility, a huge shout out to tourmountbromo  for arranging such a splendid trip. I will share the financial details and tips and tricks for the journey in my next story.
 
 Checkout my other days' stories
 
-> https://medium.com/illumination/a-journey-through-fire-and-water-immersed-in-javas-nature-wonders-the-water-18512694a9c
+> https://ethigeek.com/blogs/east-java-wonders-the-water-md.html
 
-> https://medium.com/illumination/a-journey-through-fire-and-water-immersed-in-javas-nature-wonders-the-fire-6fe616025d81
-
-
+> https://ethigeek.com/blogs/a-journey-through-fire-and-water-immersed-in-java-s-nature-wonders-the-fire.html
 

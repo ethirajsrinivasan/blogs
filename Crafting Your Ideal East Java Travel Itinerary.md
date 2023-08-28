@@ -1,8 +1,9 @@
 ### From Budget to Bliss: Crafting Your Ideal East Java Travel Itinerary
 
-In my previous [stories](https://medium.com/illumination/a-journey-through-fire-and-water-immersed-in-javas-nature-wonders-the-water-18512694a9c), I have shared my experiences of visiting the mighty volcanoes and majestic waterfall of East Java island. In this story, I will share my financial plans and some pro tips that will be useful if you are planning to visit East Java Island.
+In my previous [stories](https://ethigeek.com/blogs/east-java-wonders-the-water-md.html), I have shared my experiences of visiting the mighty volcanoes and majestic waterfall of East Java island. In this story, I will share my financial plans and some pro tips that will be useful if you are planning to visit East Java Island.
 
-> https://medium.com/illumination/a-journey-through-fire-and-water-immersed-in-javas-nature-wonders-the-water-18512694a9c
+> https://ethigeek.com/blogs/east-java-wonders-the-water-md.html
+
 
 #### The choice of the travel agency 
 Once I decided to travel to the volcanoes of East Java Island I went through a number of travel agencies providing these services. Out of all the other travel agencies I choose tourmountbromo due to the following reasons:
