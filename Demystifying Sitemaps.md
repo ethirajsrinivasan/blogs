@@ -1,7 +1,7 @@
 ### Demystifying Sitemaps: Your Pathway to Seamless Website Exploration
 In the vast world of the internet, navigating a website can sometimes be hard. That's where the sitemap comes into the picture. Sitemap is an essential tool to help visitors navigate your website easily. It also helps search engines to help index your websites efficiently. In this blog post, we will look in detail at sitemaps, their benefits, formats, and a practical example of how to generate them.
 
-> https://images.unsplash.com/photo-1472740378865-80aab8e73251?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80
+![path](https://images.unsplash.com/photo-1472740378865-80aab8e73251?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80)
 
 #### What is a Sitemap?
 A sitemap contains a list of all the pages of a website organized in a hierarchical manner. It helps visitors and search engine crawling robots understand a website's layout and structure. A sitemap not only contains the content pages but also includes metadata like priority, last modified, and change frequency of the page.
