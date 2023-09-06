@@ -8,7 +8,7 @@ The debt snowball technique helps you to get rid of your debts in an orderly and
 1. **List your debts**: Prepare a list of all your debts from loans to any outstanding obligations. Arrange them from the smallest amount to the largest amount.
 2. **Minimum payments**: Make minimum payments on all your debts.
 3. **Attack the smallest**: Try to pay off the debt with the smallest amount. This should be the fastest to be eliminated regardless of the interest rate.
-4. **Snowball effect**: Once you pay off the smallest debt use the money that you were paying for this smallest debt to pay for the next smallest debt while still paying the minimum amount for all the debts. This creates a snowball effect where your payment towards debt will keep increasing.
+4. **Snowball effect**: Once you pay off the smallest debt use that money to pay for the next smallest debt while still paying the minimum amount for all the debts. This creates a snowball effect where your payment towards debt will keep increasing.
 5. **Repeat**: Repeat these steps till all your debts are paid off. With each debt cleared, you will have more money for the next one.
 
 The debt snowball technique is widely appreciated for its psychological advantage. When a debt gets cleared you get a quick success and it motivates you to get the next one. With each debt getting cleared it gives more confidence to your debt-free life.
