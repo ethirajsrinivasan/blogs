@@ -1,15 +1,15 @@
-### What Type of Investor Are You?
+### What Type of Investor Are You?
 
 Many of us invest in different types of assets. Everyone has their own preferences and personalities and hence a different approach to their investing technique. Financial goals, risk tolerance, time horizon, and personal beliefs decide our investment style. In this blog post, we will explore the characteristics of different types of investors and you can determine which category best suits you. Identifying your investment characteristics can help you in your investment strategy and align with your goals.
 
-### Characteristics of an Investor
+### Characteristics of an Investor
 #### The Conservative Investor
 Safety and Stability are the main concerns of a conservative investor. They prefer low-risk investment options and are risk-averse. Conservative investors typically invest in:
 * **Saving Accounts and Fixed Deposits**: These provided guaranteed principles and returns. These are also insured to a certain amount which makes them low-risk.
 * **Bonds**: Government and corporate bonds offer regular interest and a guaranteed return of principal at maturity. A much safer option than stocks.
 * **Blue-Chip Stocks**: Stocks are least preferred and when invested they prefer to invest in established, large-cap companies with a strong historical background.
 
-#### The moderate Investor
+#### The moderate Investor
 Moderate investors consider both growth and safety. They take a little risk to get higher returns. Moderate investors consider:
 * **Diversified Portfolios**: They invest in a mix of stocks and bonds providing diversified portfolios. The diversification gives some resistance to risk while providing some growth.
 * **Mutual funds and exchange-traded funds (ETFs)**: These investment types are professionally managed and diversified. Hence investors consider them as attractive.
@@ -21,7 +21,7 @@ Aggressive Investors take the highest risk and look for maximum growth over the 
 * **Venture Capital and Startups**: Aggressive investors are also attracted to promising startups in emerging industries like AI and Biotech which have high risk and opportunity for high rewards.
 * **Options and derivatives**: Aggressive investors use these investment types to multiply their returns leveraging their capital. These are very highly risky investment types.
 
-#### The Passive Investor
+#### The Passive Investor
 Passive investors prefer investments with minimal effort. Passive investors embrace:
 * **Index funds**: These funds track market indexes like the S&P 500, providing a broad market exposure and have lower fees compared to managed funds.
 * **Dollar Cost Averaging**: Passive investors invest a fixed amount of money over a period of time regardless of the market imbalance. Checkout my article on Dollar Cost Averaging (DCA):
