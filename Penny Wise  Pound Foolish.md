@@ -1,5 +1,5 @@
 ### Penny Wise, Pound Foolish: The Costly Consequence
-"Penny Wise, pound foolish" - An essential reminder that prioritizing small savings in the short term can lead to a significant loss in the long run. In this story, we will look into the concept of penny wise pound foolish, embrace its importance, and how it can help in our financial journey.
+"Penny Wise, pound foolish"-An essential reminder that prioritizing small savings in the short term can lead to a significant loss in the long run. In this story, we will look into the concept of penny wise pound foolish, embrace its importance, and how it can help in our financial journey.
 
 #### The Penny Wise Mentality
 The penny-wise mentality refers to our habit of cutting costs on our day-to-day expenses and trying to save on them. We use discounts, and coupons and look for cheaper options wherever possible. While cutting costs is a good habit too much of anything is not safe. We tend to cut costs on everything possible as we are unaware of its long-term effects.
@@ -10,7 +10,7 @@ The penny-wise mentality refers to our habit of cutting costs on our day-to-day 
 * Skipping medical checkups or health care measures can cause severe illness that needs expensive treatment. Even being reluctant to get health insurance can be a very costly decision if your health is affected and you don't have health insurance.
 * Regular vehicle maintenance might seem unnecessary but might cause an expensive fix in the future.
 
-**Sacrificing Quality**: Sacrificing quality on certain items for a few pennies can cost more over time when the low-quality item wears out or gets damaged. 
+**Sacrificing Quality**: Sacrificing quality on certain items for a few pennies can cost more over time when the low-quality item wears out or gets damaged.
 * Buying low-quality dresses wears out faster and we need to buy clothes sooner than expected whereas high-quality dresses long laster.
 * Eating food at certain restaurants that are cheaper can be a compromise on the hygiene that harms your body over the long run.
 
