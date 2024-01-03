@@ -16,7 +16,7 @@ A sitemap contains a list of all the pages of a website organized in a hierarchi
 Sitemap is supported in different formats with each format for a specific purpose. The most commonly used formats are as follows:
 * XML Sitemap: This is the most common format of sitemps. It is an XML structured format with the URL of the website pages along with metadata like priority, last modified time, and frequency change. This format is used by search engines like Google, Bing, and Yahoo to index the website's pages. Each URL can also include optional information like images, videos, and mobile-specific.
 
-```code
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
@@ -36,7 +36,7 @@ Sitemap is supported in different formats with each format for a specific purpos
 ```
 
 * HTML Sitemap: HTML sitemaps are mainly generated for human use. An HTML Sitemap is a webpage containing links to all the pages of the website. These links are organized hierarchically or categorically for easy navigation to the human user.
-```code
+```xml
 <!DOCTYPE html>
 <html>
 <head>
@@ -55,14 +55,14 @@ Sitemap is supported in different formats with each format for a specific purpos
 
 * Text Sitemap: A text sitemap is a text file containing the list of URLs of the website. It assists search engines to discover the content of the website. It is a simpler version of the XML type which smaller websites can use.
 
-```code
+```xml
 https://www.example.com/page1
 https://www.example.com/page2
 ```
 
 * Image Sitemap: An image sitemap is an extension of the XML sitemap focusing on images. It provides specific information about the images on the website like location, title, caption, license, and other relevant data. It helps search engines index and display images in image search results.
 
-```code
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
@@ -84,7 +84,7 @@ https://www.example.com/page2
 
 * Video Sitemap: Similar to image sitemap, video sitemap focuses on videos. It provides information like title, description, play page URL, and thumbnail images. It helps in better search engine results of your videos.
 
-```code
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
@@ -113,14 +113,14 @@ Now that we have seen the benefits and formats we shall look into an example.
 In this example, we will use `sitemap_generator` to create a sitemap in ruby on rails
 * Install:
 Add the `sitemap_generator` gem to your Gemfile:
-```code
+```ruby
 gem 'sitemap_generator'
 ```
 bundle install to install the gem.
 
 * Generate Configuration
 
-```code
+```ruby
 rails generate sitemap:install
 ```
 
@@ -130,7 +130,7 @@ This will generate a ruby file  `config/sitemap.rb` which you can use to configu
 
 Modify the sitemap.rb as per your application. You can define URLs, set priority, update frequency, and add the last modified time.
 
-```code
+```ruby
 SitemapGenerator::Sitemap.create do
   add root_path, priority: 1.0, changefreq: 'daily'
 
@@ -141,7 +141,7 @@ end
 ```
 * Generate Sitemap:
 
-```code
+```ruby
 rake sitemap:refresh
 ```
 
