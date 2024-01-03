@@ -1,14 +1,12 @@
 ### Penny Wise, Pound Foolish: The Costly Consequence
 
-"Penny Wise, pound foolish"-An essential reminder that prioritizing small savings in the short term can lead to a significant loss in the long run. In this story, we will look into the concept of penny wise pound foolish, embrace its importance, and how it can help in our financial journey.
+"Penny Wise, pound foolish"-An essential reminder that prioritizing small savings in the short term can lead to a significant loss in the long run. In this blog post, we will look into the concept of penny wise pound foolish, embrace its importance and how it can help in our financial journey.
 
 #### The Penny Wise Mentality
-
-The penny-wise mentality refers to our habit of cutting costs on our day-to-day expenses and trying to save on them. We use discounts, and coupons and look for cheaper options wherever possible. While cutting costs is a good habit too much of anything is not safe. We tend to cut costs on everything possible as we are unaware of its long-term effects.
+The penny-wise mentality refers to our habit of cutting costs on our day-to-day expenses and trying to save on them. We use discounts, and coupons and look for cheaper options wherever possible. While cutting costs is a good habit, too much of anything is not safe. We tend to cut costs on everything possible as we are unaware of its long-term effects.
 
 #### Drawbacks of short-term savings
-
-**Neglecting Necessities**: Being penny-wise we tend to avoid certain necessities like education or health that have a major impact on our lives.
+**Neglecting Necessities**: Being penny-wise we tend to avoid certain necessities like education or health that have a major impact on our lives. For example:
 * Reluctant to do a higher education to save on tuition fees might restrict our potential to earn more in the long run.
 * Skipping medical checkups or health care measures can cause severe illness that needs expensive treatment. Even being reluctant to get health insurance can be a very costly decision if your health is affected and you don't have health insurance.
 * Regular vehicle maintenance might seem unnecessary but might cause an expensive fix in the future.
@@ -30,7 +28,7 @@ While it is important to be aware of day-to-day expenses and make strict financi
 * **Prioritize Necessities**: Be mindful that avoiding necessities like health checkups and education can have adverse effects on our lives.
 * **Budget Wisely**: Allocate a part of your income towards emergency funds and investments. Invest in both short-term and long-term financial goals.
 * **Cost of Ownership**: Think about the cost of maintenance, repair, and replacement over time when making a purchase decision.
-* **Seek Professional Advice**: Consult with your financial advisors and make decisions about your finances, investments, and retirement planning.
+* **Seek Professional Advice**: Consult with your financial advisors and make decisions about your finances, investments and retirement planning.
 
 #### Bottom Line:
 
