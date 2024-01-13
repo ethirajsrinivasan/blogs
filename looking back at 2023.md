@@ -68,11 +68,11 @@ I started meditation occasionally a few times this year. I felt difficult while 
 #### 5. Photography
 This year I found my new passion to capture the beautiful moments of animals and birds. I spend numerous weekends wandering around the national parks of Singapore looking to shoot birds and animals. I would spend all my weekdays editing my photographs and then shoot again on weekends. It was a stress burster from a busy life. I created a dedicated Instagram account to share the precious moments that I captured. Some of my best shots are linked below. If you like my shots please follow my Instagram account: https://www.instagram.com/ethiraj_wildlife/
 
-Reel 1: https://www.instagram.com/reel/CylnvdSvsOs
+> https://www.instagram.com/reel/CylnvdSvsOs
 
-Reel 2: https://www.instagram.com/reel/CxLskoPBnQs
+> https://www.instagram.com/reel/CxLskoPBnQs
 
-Reel 3: https://www.instagram.com/reel/Cw0ZJ-7RMG7
+> https://www.instagram.com/reel/Cw0ZJ-7RMG7
 
 ---
 
